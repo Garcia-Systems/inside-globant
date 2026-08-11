@@ -40,3 +40,15 @@ The [source register](../sources/source-register.md) is the controlling annotate
 * Globant. **Google Cloud partnership expansion.** [Announcement](https://www.globant.com/news/globant-expands-partnership-google-cloud).
 * AWS. **Globant partner profile.** [AWS Partner Network](https://partners.amazonaws.com/partners/0010h00001h3VppAAE/Globant).
 * Globant. **WAE, Bluecap, and CloudShift acquisition announcements.** Evidence of stated market, consulting, industry and platform rationales. [Newsroom](https://www.globant.com/news).
+
+## Part IV — technology partner ecosystem
+
+* AWS. **Globant partner profile.** Current ecosystem record. [AWS Partner Network](https://partners.amazonaws.com/partners/0010h00001h3VppAAE/Globant).
+* Globant. **Globant and AWS expand collaboration.** 2023. [Announcement](https://www.globant.com/news/globant-and-aws-expand-collaboration).
+* Globant and Google Cloud. **Expanded partnership and partner record.** [Globant announcement](https://www.globant.com/news/globant-expands-partnership-google-cloud); [Google Cloud directory](https://cloud.google.com/find-a-partner/partner/globant).
+* Microsoft. **Globant and Microsoft announce collaboration to accelerate AI transformation.** 2024. [Microsoft Source](https://news.microsoft.com/source/2024/06/27/globant-and-microsoft-announce-collaboration-to-accelerate-ai-transformation/).
+* Globant. **Microsoft alliance capability.** [Alliance page](https://www.globant.com/partners/microsoft).
+* Globant. **Globant acquires CloudShift.** 2021. [Announcement](https://www.globant.com/news/globant-acquires-cloudshift).
+* NVIDIA and Globant. **Partner locator and alliance capability.** [NVIDIA locator](https://www.nvidia.com/en-us/about-nvidia/partners/partner-locator/); [Globant alliance page](https://www.globant.com/partners/nvidia).
+* OpenAI and Globant. **Strategic collaboration.** [OpenAI announcement](https://openai.com/index/globant-collaboration/); [Globant announcement](https://www.globant.com/news/globant-and-openai-announce-strategic-collaboration).
+* Adobe, SAP, Oracle, ServiceNow, Atlassian, and commercetools. **Official alliance pages and vendor partner directories.** See the annotated [source register](../sources/source-register.md) and [partner index](partner-index.md) for evidence limits and verification date.

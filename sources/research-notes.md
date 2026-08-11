@@ -114,3 +114,66 @@ Part III established that platform relationships can supply capability signals a
 * ask whether partner recognition is global, regional, industry-specific or capability-specific.
 
 Promising starting evidence: [Google Cloud expansion announcement](https://www.globant.com/news/globant-expands-partnership-google-cloud), [AWS partner profile](https://partners.amazonaws.com/partners/0010h00001h3VppAAE/Globant), [Google Cloud partner overview](https://cloud.google.com/partners), [CloudShift acquisition](https://www.globant.com/news/globant-acquires-cloudshift), and Globant's current [newsroom](https://www.globant.com/news). These are leads, not a verified current ecosystem map.
+# Part IV research notes — partner ecosystem
+
+## Scope and substitution decision
+
+The proposed primary chapters were retained. AWS, Google Cloud, Microsoft, Salesforce, NVIDIA, and OpenAI each had sufficient first-party evidence for a bounded analysis. Salesforce is anchored in the dated CloudShift acquisition rather than an unsourced assertion of current tier. No substitution was necessary. Vercel was not included merely because it appeared in the prompt; the reviewed evidence was not strong enough to make it strategically preferable to the documented enterprise-platform relationships.
+
+## Evidence audit and limitations
+
+* The strongest pattern is two-sided evidence: AWS and Google Cloud vendor profiles/directories; Microsoft and OpenAI partner-side announcements; NVIDIA's locator; and enterprise-vendor directories.
+* Directory status, credential counts, designations, and program names are volatile. Part IV avoids freezing unsupported counts and records a 2026-08-11 verification date.
+* A Globant alliance page establishes how Globant represents a capability. It does not establish customer outcome, lead flow, or revenue.
+* A strategic collaboration announcement establishes intention at publication. Achievement of targets requires later evidence.
+* No reviewed public source reliably quantifies alliance-attributed Globant revenue, partner-sourced pipeline, referrals, resale margin, or revenue-sharing arrangements. These remain **UNKNOWN**.
+* Public announcements support joint activity in several ecosystems, but “co-selling” is used as a general model unless the exact activity is documented.
+* Google-as-customer and Google-Cloud-as-vendor are separately modeled to prevent circular corroboration.
+
+## Research leads for a later edition
+
+1. Archive current partner-directory result pages where vendor terms permit.
+2. Locate named, jointly published end-customer cases for each major cloud alliance.
+3. Compare future annual-report alliance disclosures against the 2024 filing baseline.
+4. Request definitions behind any future certification count: active people, badges, level, geography, and date.
+5. Seek primary evidence for marketplace transactions rather than mere listings.
+
+## Questions for Part V — Lessons for Smaller Firms
+
+These are questions, not conclusions that a small firm can copy Globant.
+
+### Essential or potentially scalable down
+
+* What minimum discovery capability is essential before a specialist engineering boutique promises delivery?
+* Can a small offshore or nearshore firm make one deep platform specialization more credible than a broad list of shallow alliances?
+* Which proof matters for a first U.S. customer: individual credentials, a vendor designation, named references, a paid proof of concept, or the proposed architecture?
+* What communication cadence and local-time coverage are necessary to make distributed delivery feel controllable?
+* How should technical presales, estimation, security, and solution architecture work when only a few people can cover them?
+* Can disciplined scoping, assumptions, acceptance criteria, and escalation substitute partly for brand-based trust?
+
+### Potentially scale-dependent
+
+* Which partner tiers require certification volume, customer references, geographic coverage, sales commitments, or investment possible only at scale?
+* When does maintaining specialists across AWS, Microsoft, Google Cloud, Salesforce, and AI platforms become uneconomic?
+* Are global account coverage, 24-hour delivery, large transformation risk, and multi-country procurement only credible with substantial infrastructure?
+* How much bench, insurance, compliance, and financial capacity does a major U.S. enterprise require?
+
+### U.S. market entry and local representation
+
+* Who owns U.S. relationships when delivery leadership is abroad?
+* Is local representation required for trust, discovery, contracting, procurement, and executive escalation—or can some functions remain remote?
+* How can a firm win a first U.S. customer without overstating a vendor relationship or invented partner lead flow?
+* Which route is realistic: founder network, specialist referral, platform directory, subcontracting, local seller, or external commercial partner?
+* What must the customer be able to verify about legal entity, data handling, security, references, continuity, and accountability?
+
+### External partners and account growth
+
+* Could an external U.S. partner provide relationship access, discovery, technical presales, solution architecture, procurement navigation, or account leadership?
+* Which of those functions must remain inside the delivery firm to avoid broken promises and lost customer learning?
+* How should economics, account ownership, customer data, attribution, conflicts, and handoffs be governed?
+* Can a platform vendor provide credibility and introductions without becoming the firm's only source of demand?
+* After the first project, who identifies expansion while protecting delivery quality and customer trust?
+
+### Classification framework for Part V
+
+Each observed Globant capability should be tested rather than copied and classified as **ESSENTIAL**, **SCALABLE DOWN**, **ONLY POSSIBLE AT LARGE SCALE**, **IRRELEVANT TO A SMALL FIRM**, or **POTENTIALLY PROVIDED BY AN EXTERNAL PARTNER**. Classification should depend on target customer, deal size, regulatory exposure, platform focus, geography, and delivery risk.
