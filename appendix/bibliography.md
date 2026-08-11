@@ -1,11 +1,12 @@
 # Bibliography
 
-The [source register](../sources/source-register.md) is the controlling annotated list. This bibliography is a compact reading path.
+The [source register](../sources/source-register.md) is the controlling annotated list, including publication status, access date, chapter use, and evidentiary limits. This bibliography is a compact, deduplicated reading path rather than a second source ledger. The [evidence-gap register](../sources/evidence-gaps.md) records what those sources do not establish.
 
 ## Regulatory and investor
 
 * Globant S.A. **Annual Report on Form 20-F for the year ended December 31, 2024.** U.S. Securities and Exchange Commission, filed 2025. [SEC company filings](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude).
 * Globant S.A. **Investor Relations.** [Investor site](https://investors.globant.com/).
+* Globant S.A. **Key company metrics.** FY2024 figures reconciled to the filing are summarized in the [metrics appendix](key-company-metrics.md).
 
 ## Company capabilities and history
 

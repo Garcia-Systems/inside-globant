@@ -28,6 +28,20 @@ Score **verified / partly verified / absent / not applicable**, attach evidence,
 - Simulate an incident and a material scope discovery.
 - Verify certificates/reports at their issuer and inspect scope, date and exceptions.
 
+## Warning signs
+
+- an impressive website but no verifiable, relevant case or reference;
+- a sales team that cannot provide accountable technical leadership before commitment;
+- chronic underestimation, unexplained estimate variance, or schedules with no assumptions;
+- poor written communication or material differences between verbal and written promises;
+- unclear ownership of scope, architecture, delivery, escalation, or the contracting entity;
+- unwillingness to discuss a failure, incident, difficult customer, or recovery;
+- critical dependency on one engineer with no continuity plan;
+- hidden subcontracting or a proposed team that never meets the buyer;
+- no repeatable contract and proposal review process;
+- certificates used to avoid answering questions about actual control scope; and
+- universal expertise, guaranteed outcomes, or other unrealistic promises.
+
 ## Decision record
 
 Record: intended opportunity class; unacceptable risks; remediation owners/dates; permitted claims; maximum initial engagement; required approvals; review date; and termination triggers. Reassess after leadership, ownership, capacity, incident or quality changes.
