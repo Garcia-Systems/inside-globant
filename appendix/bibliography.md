@@ -31,3 +31,12 @@ The [source register](../sources/source-register.md) is the controlling annotate
 * Globant. **Formula 1, LA Clippers, Google Cloud, and Major League Rugby partnership announcements.** [Newsroom](https://www.globant.com/news).
 * Globant. **Electronic Arts, Santander, Nissan, LATAM Airlines, Rockwell Automation, Royal Caribbean, and other customer material.** [Customer directory](https://www.globant.com/customers).
 * Google Cloud. **Partner ecosystem.** [Partners](https://cloud.google.com/partners).
+
+## Part III — commercial system and roles
+
+* Globant S.A. **Annual Report on Form 20-F for the year ended December 31, 2024.** Contract types, client relationships, commercial expense and service-delivery risks. [SEC company filings](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude).
+* Globant. **Careers.** Current and recent role evidence; individual postings are dated and may expire. [Career site](https://career.globant.com/).
+* Globant. **Industries, Services, and Studios.** Public maps of industry, consulting, engineering and specialist capability. [Industries](https://www.globant.com/industries), [Services](https://www.globant.com/services), [Studios](https://www.globant.com/studios).
+* Globant. **Google Cloud partnership expansion.** [Announcement](https://www.globant.com/news/globant-expands-partnership-google-cloud).
+* AWS. **Globant partner profile.** [AWS Partner Network](https://partners.amazonaws.com/partners/0010h00001h3VppAAE/Globant).
+* Globant. **WAE, Bluecap, and CloudShift acquisition announcements.** Evidence of stated market, consulting, industry and platform rationales. [Newsroom](https://www.globant.com/news).

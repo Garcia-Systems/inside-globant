@@ -98,3 +98,19 @@ The aggregate model supports geographic distribution. Account-level location is 
 ### Promising source classes
 
 Dated Globant vacancies and leadership biographies; joint customer conference talks; cloud marketplace case studies; public procurement records; investor transcripts discussing large-account growth; acquired-company filings; and technical talks naming both customer and delivery participants. Titles alone must not be converted into a universal organization chart.
+## Questions for Part IV — The Partner Ecosystem
+
+Part III established that platform relationships can supply capability signals and plausible routes to market, but did not establish partner-attributed revenue or a standard co-sell process. Part IV should:
+
+* verify the **current**, first-party partner status of AWS, Google Cloud, Microsoft, Salesforce, Adobe, NVIDIA, OpenAI, Vercel, SAP and Oracle rather than infer a roster from old logos;
+* distinguish customer, supplier, reseller, implementation, certification, marketplace, sponsorship and joint-offering relationships;
+* preserve dates and archived evidence where partner tiers or pages have changed;
+* seek platform-side directories and announcements before relying on Globant marketing;
+* investigate whether sources explicitly document co-selling, referrals, marketplace transactions, partner-generated opportunities or only capability/marketing collaboration;
+* record current certifications and competencies only when a dated first-party source defines what the count/status means;
+* identify joint offerings and clarify who supplies product, implementation, operations and customer accountability;
+* test whether acquisitions such as CloudShift and GeneXus changed platform relationships without assuming integration outcomes;
+* examine conflicts and incentives when a services provider recommends a partner platform;
+* ask whether partner recognition is global, regional, industry-specific or capability-specific.
+
+Promising starting evidence: [Google Cloud expansion announcement](https://www.globant.com/news/globant-expands-partnership-google-cloud), [AWS partner profile](https://partners.amazonaws.com/partners/0010h00001h3VppAAE/Globant), [Google Cloud partner overview](https://cloud.google.com/partners), [CloudShift acquisition](https://www.globant.com/news/globant-acquires-cloudshift), and Globant's current [newsroom](https://www.globant.com/news). These are leads, not a verified current ecosystem map.

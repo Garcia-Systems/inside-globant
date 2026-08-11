@@ -38,11 +38,11 @@ Customer stories are evidence that a relationship and described work were public
 
 1. **[Understanding the Globant Machine](chapters/part-1-understanding-globant/00-the-globant-question.md)** — completed here: history, offer, demand, delivery, Studios, customers, economics, the United States, and a bounded end-to-end model.
 2. **[Follow the Customers](chapters/part-2-customers/11-follow-the-customers.md)** — customer-by-customer reconstructions and a synthesis of what buyers actually purchase.
-3. **How Deals Happen** — future investigation of relationships, discovery, solution definition, commercials, governance, and expansion.
+3. **[How Deals Happen](chapters/part-3-how-deals-happen/23-the-commercial-engine.md)** — evidence-bounded investigation of relationships, discovery, solution definition, commercials, governance, and expansion.
 4. **The Partner Ecosystem** — future study of cloud, platform, and other partners in opportunity creation and delivery.
 5. **Lessons for Small Firms** — future synthesis for firms pursuing cross-border, customer-facing technical work without pretending Globant's scale can be copied wholesale.
 
-Parts I and II are written in this release. The empty Part III–V directories are intentional placeholders, not missing chapters.
+Parts I–III are written in this release. The empty Part IV–V directories are intentional placeholders, not missing chapters.
 
 ## How to read
 
