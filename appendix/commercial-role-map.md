@@ -23,3 +23,18 @@ The map supports a **distributed technical–commercial bridge**. It does not es
 ## Material unknowns
 
 Reporting lines, account coverage, incentive plans, quotas, decision rights, utilization treatment, proposal approvals, role handoffs and global consistency remain unknown from the reviewed record.
+
+## Small-firm functional map
+
+These are possible allocations, not recommended titles or Globant practice.
+
+| Required function | 25-person possibility | 100-person possibility | External contribution | Control |
+|---|---|---|---|---|
+| market access | founder | market/account lead | referral or representative | claims and account ownership defined |
+| discovery | founder + senior engineer | solution consultant/architect | facilitator/domain adviser | customer evidence recorded |
+| technical–commercial translation | senior engineer | architect + account lead | presales consultant | engineering validates promises |
+| proposal/commercial | founder | account lead + finance | counsel/consultant in proper domain | one approved scope/price version |
+| delivery governance | technical lead | delivery lead | specialist support only | provider retains accountability |
+| account continuity | founder/delivery lead | named account owner | representative may assist | outcome precedes expansion |
+
+See [Chapter 60](../chapters/part-5-lessons-for-small-firms/60-the-technical-commercial-gap.md) for why function matters more than title.

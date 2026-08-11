@@ -44,3 +44,14 @@ customer decision, funding and responsibility
 5. Revalidate feasibility after material commercial changes.
 6. Preserve decision rationale into delivery.
 7. Treat delivery behavior as evidence for—not entitlement to—future work.
+
+## Cross-border responsibility overlay
+
+For the explicitly hypothetical first-deal walkthrough, add four questions at every lifecycle activity:
+
+1. **Who does what?** Separate customer, market-facing partner and engineering-provider authority.
+2. **What value is created?** Access, information, risk reduction, a decision, or delivered behavior—not just activity.
+3. **What risk/information exists?** Keep technical, commercial, security, capacity and stakeholder unknowns visible.
+4. **What is the next decision?** Name decision-maker, evidence and date; a meeting is not a decision.
+
+The full example is [Chapter 66](../chapters/part-5-lessons-for-small-firms/66-the-first-deal.md). Compensation, account ownership, proposal authority, customer communication, handoff and escalation should be agreed before a live pursuit.

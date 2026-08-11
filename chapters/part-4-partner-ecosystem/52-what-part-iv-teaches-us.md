@@ -46,13 +46,13 @@ The global technology-services market is not simply **customer → developers**.
 
 Globant has global brand recognition, thousands of employees, major customers, specialized Studios, established partnerships, delivery infrastructure, enterprise credibility, commercial teams, and industry expertise.
 
-Bryan's broader market observation is not limited to companies of Globant's scale. Many offshore firms, nearshore companies, and specialist engineering boutiques have genuine delivery capability without the same U.S. commercial system.
+The broader market observation is not limited to companies of Globant's scale. Many offshore firms, nearshore companies, and specialist engineering boutiques may have genuine delivery capability without the same U.S. commercial system.
 
 That creates the question for Part V:
 
 > **WHAT HAPPENS WHEN A COMPANY HAS TECHNICAL DELIVERY CAPABILITY—BUT DOES NOT HAVE GLOBANT'S U.S. COMMERCIAL MACHINE?**
 
-Part IV does not answer it. Part V will test which elements are essential, scalable down, scale-dependent, irrelevant, or potentially supplied by an external partner.
+Part IV does not answer it. [Part V](../part-5-lessons-for-small-firms/53-shrinking-the-globant-model.md) tests which elements are essential, scalable down, scale-dependent, irrelevant, or potentially supplied by an external partner.
 
 ## Questions to Think About
 
