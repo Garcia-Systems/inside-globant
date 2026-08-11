@@ -55,3 +55,46 @@ The aggregate model supports geographic distribution. Account-level location is 
 * Studio lists and category names change. Date snapshots and avoid treating present taxonomy as historical.
 * Acquisition announcements state intentions; later filings are needed to assess integration.
 * Customer-reported outcome, provider-reported outcome, and independently measured outcome carry different evidentiary weight.
+
+## Part II evidence review
+
+* **Google:** retained as an evidence-boundary chapter. Public sources establish early customer status and a separate Google Cloud ecosystem relationship, but not a project reconstruction. Do not merge these roles.
+* **Electronic Arts:** filing evidence supports a long relationship; project/title, team, account economics, and expansion sequence remain unavailable. Duration is evidence of repeat relationship, not monotonic growth.
+* **Santander and Nissan:** provider stories are useful but customer-side sources found in this pass principally establish business context, not every delivery claim. Preserve attribution and entity/geography limits.
+* **Formula 1:** strongest modern named case because the customer and provider both announced a multiyear digital and official-partner relationship. Launch language is intent, not post-delivery KPI evidence. Sponsorship and delivery must be analyzed separately.
+* **LA Clippers / Intuit Dome:** customer-side partnership evidence exists, but the arena is a multi-vendor program. Never attribute the entire technology estate to Globant.
+* **Rockwell Automation:** retained rather than padded or replaced. First-party public material reviewed was too thin for a full architecture/outcome account; no materially better-documented industrial Globant case was found. The chapter explicitly limits itself and uses general industrial contrasts only when labeled.
+
+## Questions for Part III — How Deals Happen
+
+### Opportunity and access
+
+1. Did sponsorship/official-partner discussions or delivery discussions come first in Formula 1, FIFA, Clippers, and MLR relationships?
+2. Which opportunities originated with founders, client partners, acquired-company relationships, platform partners, industry leaders, or formal procurement?
+3. What does Globant require before treating a logo or initial conversation as a qualified opportunity?
+
+### Discovery and solution shaping
+
+4. Who leads customer discovery: a client partner, Business Hacker, Studio specialist, designer, architect, or prospective delivery leader?
+5. When are industry, security, data, platform, and delivery specialists brought into discovery?
+6. Who owns the responsibility matrix in multi-vendor programs such as an arena or bank channel?
+7. How are customer outcomes translated into scope, architecture, acceptance criteria, staffing and an estimate?
+
+### Commercial and staffing controls
+
+8. Who validates talent availability and delivery geography before signature?
+9. Which account examples can document T&M, fixed-price, managed-service, or outcome-linked terms without inference?
+10. How do procurement, security review, IP, data protection, and vendor risk affect sales-cycle length?
+11. Who can approve price, margin exceptions, nonstandard liability, and partner dependencies?
+
+### Transition, account ownership and expansion
+
+12. Does a presales technical leader continue into delivery, and how is context handed over?
+13. Who owns the customer after signature: account/client partner, delivery leader, or a shared model?
+14. How are delivery signals converted into adjacent opportunities without undermining trust?
+15. What evidence would distinguish Studio cross-selling from unrelated repeat purchasing?
+16. Which U.S.-based customer-facing roles interact with distributed delivery leaders, and how are decision rights divided?
+
+### Promising source classes
+
+Dated Globant vacancies and leadership biographies; joint customer conference talks; cloud marketplace case studies; public procurement records; investor transcripts discussing large-account growth; acquired-company filings; and technical talks naming both customer and delivery participants. Titles alone must not be converted into a universal organization chart.

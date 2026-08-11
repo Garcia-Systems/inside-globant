@@ -21,3 +21,13 @@ The [source register](../sources/source-register.md) is the controlling annotate
 * Globant. **Customer stories.** [Directory](https://www.globant.com/customers).
 * Globant. **News releases: WAE, Bluecap, CloudShift, and GeneXus acquisitions.** [Newsroom](https://www.globant.com/news).
 * AWS. **Globant partner profile.** [AWS Partner Network](https://partners.amazonaws.com/partners/0010h00001h3VppAAE/Globant).
+
+## Part II — customer-side and joint evidence
+
+* Formula 1. **Formula 1 announces Globant as an Official Partner to drive digital experiences.** 2024. [Announcement](https://www.formula1.com/en/latest/article/formula-1-announces-globant-as-an-official-partner-to-drive-digital.4pUzE5QpdthT1DRdqS1Dlw).
+* LA Clippers. **LA Clippers announce Globant as digital transformation partner.** [Announcement](https://www.nba.com/clippers/news/la-clippers-announce-globant-as-digital-transformation-partner).
+* Santander. **Annual reports.** [Investor publications](https://www.santander.com/en/shareholders-and-investors/financial-and-economic-information/annual-report).
+* Nissan Motor Co. **Annual reports.** [Investor library](https://www.nissan-global.com/EN/IR/LIBRARY/ANNUAL/).
+* Globant. **Formula 1, LA Clippers, Google Cloud, and Major League Rugby partnership announcements.** [Newsroom](https://www.globant.com/news).
+* Globant. **Electronic Arts, Santander, Nissan, LATAM Airlines, Rockwell Automation, Royal Caribbean, and other customer material.** [Customer directory](https://www.globant.com/customers).
+* Google Cloud. **Partner ecosystem.** [Partners](https://cloud.google.com/partners).
