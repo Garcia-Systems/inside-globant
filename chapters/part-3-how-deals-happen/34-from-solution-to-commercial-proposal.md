@@ -1,4 +1,6 @@
-# 34 — From Solution to Commercial Proposal
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 34 — From Solution to Commercial Proposal
 
 A technical solution becomes purchasable only when it becomes a set of commitments:
 
@@ -31,3 +33,7 @@ A proposal should distinguish deliverables from hoped-for business outcomes. Sof
 1. Which outcome can the provider actually control?
 2. How can a proposal preserve discovery uncertainty?
 3. Why is the cheapest comparable rate not necessarily the cheapest system?
+
+---
+
+[Previous Chapter](33-scoping-estimation-and-feasibility.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](35-enterprise-buying-and-procurement.md)

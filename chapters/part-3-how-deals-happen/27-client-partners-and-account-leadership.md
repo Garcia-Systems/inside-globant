@@ -1,4 +1,6 @@
-# 27 — Client Partners and Account Leadership
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 27 — Client Partners and Account Leadership
 
 Who represents Globant to the customer over the life of a relationship? Public Globant career material has used titles such as **Client Partner**, **Account Director**, **Account Manager** and geographically or sector-focused leadership titles ([Globant careers](https://career.globant.com/)). Because postings are time- and location-specific, this chapter treats them as role evidence, not a global organization chart.
 
@@ -26,3 +28,7 @@ Account leadership occupies a productive tension. The customer needs an advocate
 1. When should account ownership and delivery ownership be separate?
 2. What information must persist when an account leader changes?
 3. How can growth responsibility improve rather than distort customer advice?
+
+---
+
+[Previous Chapter](26-business-development.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](28-industry-and-domain-expertise.md)

@@ -1,4 +1,6 @@
-# 26 — Business Development
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 26 — Business Development
 
 Business development in professional services should not automatically be read as SaaS sales-development work. A service is shaped around a customer's situation; opportunity creation therefore may require account research, industry fluency, relationship building and orchestration of experts before anything standard can be quoted.
 
@@ -26,3 +28,7 @@ That list is a **general industry model**, not a published Globant sequence. “
 1. Why is disqualification productive commercial work?
 2. What must a developer of business understand before calling an architect?
 3. Which claims from one job advertisement cannot be generalized?
+
+---
+
+[Previous Chapter](25-accounts-relationships-and-trust.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](27-client-partners-and-account-leadership.md)

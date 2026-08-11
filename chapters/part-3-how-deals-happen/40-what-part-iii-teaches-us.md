@@ -1,4 +1,6 @@
-# 40 — What Part III Teaches Us
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 40 — What Part III Teaches Us
 
 Engineering capability becomes revenue only through a chain of customer permission and provider commitment. Market presence creates consideration; relationships create access; business development finds and develops relevant demand; account leadership preserves context; industry expertise identifies business meaning; consulting and technical specialists define options; delivery leadership tests feasibility; commercial/legal infrastructure makes commitments buyable; delivery creates the evidence for trust and possible repeat work.
 
@@ -45,3 +47,7 @@ A technically credible person who can move accurately in both directions across 
 1. Which of the seven capabilities is hardest for a small cross-border firm to establish?
 2. What evidence would change an inference in Part III into documented Globant practice?
 3. Why is commercial success ultimately a systems property rather than a seller property?
+
+---
+
+[Previous Chapter](39-reconstructing-a-hypothetical-deal.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](../part-4-partner-ecosystem/41-the-ecosystem-around-globant.md)

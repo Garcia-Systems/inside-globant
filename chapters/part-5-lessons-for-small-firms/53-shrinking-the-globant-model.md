@@ -1,4 +1,6 @@
-# 53 — Shrinking the Globant Model
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 53 — Shrinking the Globant Model
 
 Part IV ended with a buyer, a services company, and technology vendors around one solution. Shrinking Globant therefore means shrinking a **system of capabilities**, not copying its organization chart. Globant's FY2024 filing documents a large workforce, broad client base, global operations, sales and marketing expense, and delivery and concentration risks; its [services](https://www.globant.com/services), [Studios](https://www.globant.com/studios), and [industries](https://www.globant.com/industries) pages show the breadth it presents to buyers. None says a small firm needs every capability in-house.
 
@@ -28,3 +30,13 @@ Scale can remove layers, not responsibilities. At 25 people, one founder may dev
 Some capabilities can be rented; accountability cannot. External counsel may review terms, a fractional commercial leader may build process, and a cloud specialist may validate architecture. The engineering company still owns promises made in its name. The minimum model is therefore not “salesperson plus developers,” but **access → diagnosis → feasible offer → governed delivery → account learning**.
 
 [Chapter 54](54-the-small-global-engineering-company.md) asks what kinds of firms might operate that system.
+
+## Questions to Think About
+
+1. Which assumptions in the shrinking the globant model model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](../part-4-partner-ecosystem/52-what-part-iv-teaches-us.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](54-the-small-global-engineering-company.md)

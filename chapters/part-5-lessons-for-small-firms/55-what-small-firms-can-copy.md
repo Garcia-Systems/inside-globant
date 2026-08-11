@@ -1,4 +1,6 @@
-# 55 — What Small Firms Can Copy
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 55 — What Small Firms Can Copy
 
 The portable lessons are principles, not Globant's headcount, brand, or Studio names. Globant's public [services, Studios, and industries](https://www.globant.com/) make specialization and customer context legible; its filing describes long client relationships and multiple contract forms. A smaller firm can reproduce clarity and discipline without reproducing breadth.
 
@@ -23,3 +25,13 @@ Discovery and communication are especially scalable. A 25-person firm can ask wh
 “Land and expand” also scales down only as an ethic: deliver a bounded first result, learn the account, and qualify another problem. It is not permission to underprice entry work or manufacture dependency. Expansion remains a new buying decision.
 
 [Chapter 56](56-what-small-firms-cannot-copy.md) identifies where substitution, rather than imitation, is required.
+
+## Questions to Think About
+
+1. Which assumptions in the what small firms can copy model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](54-the-small-global-engineering-company.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](56-what-small-firms-cannot-copy.md)

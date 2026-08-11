@@ -1,4 +1,6 @@
-# 68 — The “Globant at 100 People” Model
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 68 — The “Globant at 100 People” Model
 
 The title is deliberately provocative. The objective is **not** to recreate Globant. Imagine a 100-person international firm, mostly engineers, with three credible specialties and good delivery history but limited U.S. commercial infrastructure. What minimum system could compete credibly for suitable work?
 
@@ -43,3 +45,13 @@ A plausible allocation is one full-time market/account lead, a founder sponsor, 
 Three rules hold it together: no commercial promise without technical validation; no technical estimate without customer assumptions; no handoff without decision context. Track qualified pipeline, presales hours, win/loss reasons, estimate variance, gross margin, delivery health, referenceability and expansion from demonstrated outcomes. Metrics diagnose; they do not replace judgment.
 
 [Chapter 69](69-final-lessons-from-globant.md) concludes by separating essential functions from titles.
+
+## Questions to Think About
+
+1. Which assumptions in the the “globant at 100 people” model model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](67-from-first-deal-to-repeatable-model.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](69-final-lessons-from-globant.md)

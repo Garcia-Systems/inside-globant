@@ -1,4 +1,6 @@
-# 17 — Nissan: Building the Journey Between Brand and Vehicle
+[Inside Globant](../../README.md) · [Part II — Follow the Customers](README.md) · [Customer Index](../../appendix/customer-index.md)
+
+# Chapter 17 — Nissan: Building the Journey Between Brand and Vehicle
 
 An automotive customer journey crosses advertising, research, configuration, finance, dealers, purchase, ownership, service, and sometimes connected-vehicle software. The automaker does not control every system in that chain, yet the customer experiences one brand. Globant's Nissan case study describes digital customer-experience work and reports provider-selected results ([Globant Nissan story](https://www.globant.com/customers/nissan)).
 
@@ -41,3 +43,7 @@ For a manufactured product, digital engineering shapes demand and ownership with
 2. How would you trace a web engagement metric to a vehicle sale without overstating causality?
 3. Why are dealer and market boundaries as important as interface design?
 4. What evidence would reveal whether this was a project or a durable account?
+
+---
+
+[Previous Chapter](16-la-clippers-and-intuit-dome.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](18-rockwell-automation.md)

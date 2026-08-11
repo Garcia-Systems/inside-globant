@@ -1,4 +1,6 @@
-# 20 — What Customers Actually Buy
+[Inside Globant](../../README.md) · [Part II — Follow the Customers](README.md) · [Customer Index](../../appendix/customer-index.md)
+
+# Chapter 20 — What Customers Actually Buy
 
 No customer orders “transformation” for its own sake. The cases suggest six more concrete purchases. The categories overlap because enterprise work is assembled, not boxed.
 
@@ -43,3 +45,7 @@ Public sources do not show full team rosters. The work implies functions, not co
 2. Which customer responsibilities cannot be purchased from a services firm?
 3. Why can buying SaaS increase rather than eliminate integration services?
 4. How would you define acceptance criteria for “improve customer experience”?
+
+---
+
+[Previous Chapter](19-additional-customer-patterns.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](21-from-project-to-strategic-account.md)

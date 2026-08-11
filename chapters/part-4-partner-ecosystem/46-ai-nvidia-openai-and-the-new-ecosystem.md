@@ -1,4 +1,6 @@
-# 46 — AI: NVIDIA, OpenAI, and the New Ecosystem
+[Inside Globant](../../README.md) · [Part IV — The Partner Ecosystem](README.md) · [Partner Index](../../appendix/partner-index.md)
+
+# Chapter 46 — AI: NVIDIA, OpenAI, and the New Ecosystem
 
 AI makes the product–services distinction especially visible. A model endpoint, accelerator, or managed AI service can be obtained quickly. A safe, useful production system still requires choices and work around it.
 
@@ -51,3 +53,7 @@ Globant's public [AI services](https://www.globant.com/artificial-intelligence) 
 1. What test would prevent a compelling demonstration from becoming an unsafe deployment?
 2. Who owns evaluation data and the authority to stop the system?
 3. Does the proposed architecture preserve the customer's ability to change models or platforms?
+
+---
+
+[Previous Chapter](45-salesforce-and-enterprise-platforms.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](47-other-strategic-technology-partners.md)

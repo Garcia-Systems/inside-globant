@@ -1,4 +1,6 @@
-# 7 — The Economics of Globant
+[Inside Globant](../../README.md) · [Part I — Understanding the Globant Machine](README.md)
+
+# Chapter 7 — The Economics of Globant
 
 Globant is economically a people-intensive services company with some platforms and reusable assets—not a pure software subscription company. The FY2024 audited baseline makes the mechanism visible. Globant reported **$2.421 billion of revenue for the year ended December 31, 2024**, up **15.3%** from 2023; gross profit was approximately **$874 million**, or **36.1%** of revenue. It reported **31,107 Globers at year-end**, of whom **29,093** were technology, design, and innovation professionals. These figures and definitions should be read in the filing rather than combined with differently dated website counters ([FY2024 Form 20-F, selected financial and employee data](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude)).
 
@@ -63,3 +65,7 @@ It also shows why neither “more sales” nor “more engineers” is independe
 2. How does a fixed-price engagement transfer different risk than time-and-materials work?
 3. Why can rapid headcount growth be either strength or warning?
 4. How do specialization and account expansion interact with gross margin?
+
+---
+
+[Previous Chapter](06-industries-markets-and-customers.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](08-the-united-states-market.md)

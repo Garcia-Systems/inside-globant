@@ -1,4 +1,6 @@
-# 22 — What Part II Teaches Us
+[Inside Globant](../../README.md) · [Part II — Follow the Customers](README.md) · [Customer Index](../../appendix/customer-index.md)
+
+# Chapter 22 — What Part II Teaches Us
 
 The customer lens replaces a service catalogue with a chain of consequences.
 
@@ -60,3 +62,7 @@ Part III—**How Deals Happen**—will investigate that concealed middle: how Gl
 3. How can a services provider demonstrate relevant experience without assuming two customers are identical?
 4. What evidence would let us reconstruct an actual deal without breaching confidentiality?
 5. Why must continuity from presales into delivery affect both trust and economics?
+
+---
+
+[Previous Chapter](21-from-project-to-strategic-account.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](../part-3-how-deals-happen/23-the-commercial-engine.md)

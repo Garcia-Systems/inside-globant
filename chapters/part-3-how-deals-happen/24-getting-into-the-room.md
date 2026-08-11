@@ -1,4 +1,6 @@
-# 24 — Getting into the Room
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 24 — Getting into the Room
 
 An enterprise meeting is permission to discuss a consequential problem, not merely a calendar invitation. The buyer may expose strategy, architecture, operational weakness or regulated data. Access therefore reflects relevance and trust.
 
@@ -30,3 +32,7 @@ These are **general industry models**. The record does not support a percentage 
 1. Which route transfers the most trust, and which merely creates awareness?
 2. How can sponsorship and services coexist without proving which originated the deal?
 3. What should an acquired relationship be worth if delivery continuity fails?
+
+---
+
+[Previous Chapter](23-the-commercial-engine.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](25-accounts-relationships-and-trust.md)

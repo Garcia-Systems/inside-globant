@@ -1,5 +1,7 @@
 # Research Notes and Open Questions
 
+> **Release note:** The repository does not currently contain a license. A license decision remains for the repository owner; this research pass does not choose one or add a copyright claim.
+
 These notes are deliberately not polished conclusions. They preserve the boundary between evidence and an attractive story.
 
 ## Evidence baseline

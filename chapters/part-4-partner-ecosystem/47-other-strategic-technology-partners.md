@@ -1,4 +1,6 @@
-# 47 — Other Strategic Technology Partners
+[Inside Globant](../../README.md) · [Part IV — The Partner Ecosystem](README.md) · [Partner Index](../../appendix/partner-index.md)
+
+# Chapter 47 — Other Strategic Technology Partners
 
 This is a selective comparison, not a logo wall. Partners were included when an official Globant page, acquisition announcement, or vendor-side record provided more than visual association. Relationship descriptions are bounded by those sources and should be reverified when a buying decision depends on current tier or geography.
 
@@ -33,3 +35,7 @@ It does not rank partners, estimate revenue, assert active co-selling, or claim 
 1. Is a buyer selecting a platform first and then an implementer, or designing the outcome first?
 2. How portable are Globant's accelerators and customer data if the platform changes?
 3. Which evidence is more decision-useful: tier, named references, or the proposed team's experience?
+
+---
+
+[Previous Chapter](46-ai-nvidia-openai-and-the-new-ecosystem.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](48-how-platforms-create-services-work.md)

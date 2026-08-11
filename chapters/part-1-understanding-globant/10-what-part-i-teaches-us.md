@@ -1,4 +1,6 @@
-# 10 — What Part I Teaches Us
+[Inside Globant](../../README.md) · [Part I — Understanding the Globant Machine](README.md)
+
+# Chapter 10 — What Part I Teaches Us
 
 Globant is a global technology-services company: an organization that converts expertise, labor, methods, relationships, partner ecosystems, and management into client engagements. Software is often an output. The business is not adequately explained as a software product vendor or a broker of cheaper programmers.
 
@@ -68,3 +70,7 @@ Globant's public model makes the need visible, but not the precise internal titl
 2. If commercial capability is part of production, how should engineers participate before signature?
 3. What customer-level evidence would most change the conceptual chain built in Part I?
 4. Which unknown is most important for someone pursuing cross-border sales engineering?
+
+---
+
+[Previous Chapter](09-the-commercial-technical-delivery-chain.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](../part-2-customers/11-follow-the-customers.md)

@@ -1,4 +1,6 @@
-# 39 — Reconstructing a Hypothetical Deal
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 39 — Reconstructing a Hypothetical Deal
 
 > **HYPOTHETICAL — NOT A REAL GLOBANT DEAL.** The scenario synthesizes the functions in Part III. It does not describe Globant's proprietary process, titles, staffing, pricing or any actual customer.
 
@@ -38,3 +40,7 @@ At each row, the output is evidence for the next decision—not an automatic sta
 1. At which row would a technically credible translator create the greatest value?
 2. Which customer actor cannot be replaced by Globant?
 3. Where should the hypothetical deal stop if data quality is unknown?
+
+---
+
+[Previous Chapter](38-when-sales-becomes-delivery.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](40-what-part-iii-teaches-us.md)

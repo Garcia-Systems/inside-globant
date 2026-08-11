@@ -1,4 +1,6 @@
-# 36 — Partnerships as a Route to Market
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 36 — Partnerships as a Route to Market
 
 Globant publicly documents relationships with technology-platform companies, but “partner” can mean certification, delivery capability, joint offering, marketing or other arrangements. It does not prove co-selling or generated revenue in every case.
 
@@ -31,3 +33,7 @@ Partnerships can create opportunity through directories, joint events, marketpla
 1. How does a customer distinguish recommendation from commercial incentive?
 2. Why does platform success create services demand rather than eliminate it?
 3. What evidence would prove partner-generated opportunity?
+
+---
+
+[Previous Chapter](35-enterprise-buying-and-procurement.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](37-land-expand-and-grow-the-account.md)

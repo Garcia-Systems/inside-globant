@@ -1,4 +1,6 @@
-# 5 — The Studio and Specialization Model
+[Inside Globant](../../README.md) · [Part I — Understanding the Globant Machine](README.md)
+
+# Chapter 5 — The Studio and Specialization Model
 
 Globant uses **Studios** as named areas of expertise. The company describes them as deep pockets of specialization spanning technologies and industries; the roster evolves, so the official directory is the authority for current names ([Globant Studios](https://www.globant.com/studios), [FY2024 Form 20-F, business overview](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude)). A Studio should not be casually equated with a legal entity, profit center, delivery squad, or reporting line: public material does not establish that every Studio has all those properties.
 
@@ -51,3 +53,7 @@ An account may need experts from several Studios and locations. That breadth cre
 2. How might specialization improve pricing power? How might it create organizational silos?
 3. Who should resolve a conflict between an industry specialist's recommendation and a platform specialist's recommendation?
 4. Why does specialization help before a contract as well as during delivery?
+
+---
+
+[Previous Chapter](04-the-global-delivery-model.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](06-industries-markets-and-customers.md)

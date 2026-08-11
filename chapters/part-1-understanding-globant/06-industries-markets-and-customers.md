@@ -1,4 +1,6 @@
-# 6 — Industries, Markets, and Customers
+[Inside Globant](../../README.md) · [Part I — Understanding the Globant Machine](README.md)
+
+# Chapter 6 — Industries, Markets, and Customers
 
 Globant's filing discusses customers across media and entertainment, consumer/retail, financial services, travel, technology, professional services, and other sectors. Industry labels matter because the same technology has different constraints: identity at a bank is not identity in a game; demand forecasting in retail is not predictive maintenance in manufacturing ([FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude), [industries](https://www.globant.com/industries)).
 
@@ -44,3 +46,7 @@ This method also permits negative findings. If only a provider page survives, th
 2. What questions would you ask before treating a public customer logo as evidence of a strategic account?
 3. How can a provider reuse experience without exposing confidential client knowledge?
 4. Which intersections of industry and technology are likely to require the most customer-facing technical judgment?
+
+---
+
+[Previous Chapter](05-the-studio-and-specialization-model.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](07-the-economics-of-globant.md)

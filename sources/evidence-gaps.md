@@ -1,5 +1,9 @@
 # Evidence-Gap Register
 
+Public research can explain a great deal about a company such as Globant, but it cannot reconstruct confidential negotiations, pricing, internal sales stages, or undisclosed account relationships.
+
+Recording those boundaries strengthens the analysis: it separates what public evidence can establish from questions that only transaction participants could answer.
+
 Public evidence can establish the outside of Globant's model more reliably than its internal choreography. These gaps prevent analytical reconstructions from becoming invented company facts.
 
 | Question | Why it matters | Public evidence searched | What remains unknown | Evidence that would resolve it |

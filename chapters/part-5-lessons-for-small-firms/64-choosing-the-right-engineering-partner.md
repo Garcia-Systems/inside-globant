@@ -1,4 +1,6 @@
-# 64 — Choosing the Right Engineering Partner
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 64 — Choosing the Right Engineering Partner
 
 > **WOULD YOU PUT YOUR REPUTATION IN FRONT OF THIS COMPANY?**
 
@@ -45,3 +47,13 @@ Red flags include unverifiable references, bait-and-switch staffing, universal e
 Start with a paid discovery or bounded production-representative slice only when it tests the main risks. A toy pilot can create false comfort. Re-evaluate periodically; partnership quality changes with leadership, growth and workload. The reusable framework appears in the [partner-evaluation appendix](../../appendix/partner-evaluation-framework.md).
 
 The same discipline must qualify demand, addressed in [Chapter 65](65-choosing-the-right-us-opportunity.md).
+
+## Questions to Think About
+
+1. Which assumptions in the choosing the right engineering partner model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](63-how-the-economics-might-work.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](65-choosing-the-right-us-opportunity.md)

@@ -1,4 +1,6 @@
-# 51 — The Three-Party Enterprise Deal
+[Inside Globant](../../README.md) · [Part IV — The Partner Ecosystem](README.md) · [Partner Index](../../appendix/partner-index.md)
+
+# Chapter 51 — The Three-Party Enterprise Deal
 
 > **HYPOTHETICAL — NOT A GLOBANT CUSTOMER CASE.** The scenario combines the general industry mechanics and public capability categories discussed in this Part. It does not claim that Globant, a vendor, or a customer follows this exact process.
 
@@ -32,3 +34,7 @@ Misalignment is possible at every stage. The vendor can oversell capability, the
 1. At which stage should the customer be able to stop without losing bargaining power?
 2. Who bears the risk that the model works but users do not adopt the workflow?
 3. Which decisions must remain with the customer even when vendors provide expertise?
+
+---
+
+[Previous Chapter](50-certifications-specialization-and-trust.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](52-what-part-iv-teaches-us.md)

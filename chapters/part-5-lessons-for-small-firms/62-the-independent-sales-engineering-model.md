@@ -1,4 +1,6 @@
-# 62 — The Independent Sales Engineering Model
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 62 — The Independent Sales Engineering Model
 
 Could an independent technical/commercial professional connect an overseas engineering firm with U.S. demand? Yes, structurally—but the label hides materially different arrangements, and public evidence does not establish one universal best model.
 
@@ -34,3 +36,13 @@ The parties should define territories/accounts, exclusivity, conflicts, use of m
 The representative must never sell unseen capacity. Engineers must never assume the representative has secured budget or authority. A joint opportunity review should record customer evidence, technical unknowns, capacity, next decision, and who may promise what.
 
 The model works only if it supplies missing functions more economically and credibly than hiring, founder-led sales, a vendor partnership, or customer-led specification. [Chapter 63](63-how-the-economics-might-work.md) makes those tradeoffs visible.
+
+## Questions to Think About
+
+1. Which assumptions in the the independent sales engineering model model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](61-the-local-presence-question.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](63-how-the-economics-might-work.md)

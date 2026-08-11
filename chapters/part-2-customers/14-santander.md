@@ -1,4 +1,6 @@
-# 14 — Santander: External Engineering Inside a Technology-Intensive Bank
+[Inside Globant](../../README.md) · [Part II — Follow the Customers](README.md) · [Customer Index](../../appendix/customer-index.md)
+
+# Chapter 14 — Santander: External Engineering Inside a Technology-Intensive Bank
 
 Santander is not a bank discovering software for the first time. Its public strategy treats technology and digital channels as core capabilities. That makes the interesting question not “why outsource IT?” but why a bank with its own technologists would add an external digital-engineering firm.
 
@@ -36,3 +38,7 @@ In finance, domain knowledge constrains technical work. A beautiful journey that
 2. Which decisions can be delegated to a delivery partner, and which accountability should remain with the bank?
 3. What evidence would establish that a digital-experience improvement caused a business result?
 4. How might security and compliance requirements change discovery before any interface is built?
+
+---
+
+[Previous Chapter](13-electronic-arts.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](15-formula-1.md)

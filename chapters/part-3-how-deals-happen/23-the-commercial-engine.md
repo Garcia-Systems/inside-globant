@@ -1,4 +1,6 @@
-# 23 — The Commercial Engine
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 23 — The Commercial Engine
 
 Globant may possess thousands of talented engineers, but engineering capacity has economic value only when customers purchase work. Talent is supply; a sufficiently defined, funded and trusted customer commitment is demand. The system that joins them is the **commercial engine**.
 
@@ -36,3 +38,7 @@ The commercial engine therefore does not end at signature. A proposition that ca
 1. Which commercial capability protects delivery economics earliest?
 2. When does technical credibility become customer trust?
 3. Why is unused talent a different problem from insufficient talent?
+
+---
+
+[Previous Chapter](../part-2-customers/22-what-part-ii-teaches-us.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](24-getting-into-the-room.md)

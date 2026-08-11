@@ -1,4 +1,6 @@
-# 45 — Salesforce and Enterprise Platforms
+[Inside Globant](../../README.md) · [Part IV — The Partner Ecosystem](README.md) · [Partner Index](../../appendix/partner-index.md)
+
+# Chapter 45 — Salesforce and Enterprise Platforms
 
 Salesforce is the primary case because Globant's capability is documented through an acquisition rather than inferred from a partner logo. In 2021 Globant announced its [acquisition of CloudShift](https://www.globant.com/news/globant-acquires-cloudshift), describing CloudShift as a Salesforce partner and explaining that the acquisition would strengthen Globant's Salesforce capabilities and UK presence. That is **DOCUMENTED FACT** about the transaction and stated rationale. Current tier, headcount, pipeline, and realized acquisition synergies require current evidence and are not assumed.
 
@@ -59,3 +61,7 @@ CloudShift provides credible historical evidence of a deliberate Salesforce capa
 1. What should remain standard to preserve upgradeability?
 2. Is the system implementation failing, or is an unresolved process decision being exposed?
 3. Who owns data quality after migration?
+
+---
+
+[Previous Chapter](44-microsoft.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](46-ai-nvidia-openai-and-the-new-ecosystem.md)

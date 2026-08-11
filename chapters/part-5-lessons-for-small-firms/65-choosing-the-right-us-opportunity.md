@@ -1,4 +1,6 @@
-# 65 — Choosing the Right U.S. Opportunity
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 65 — Choosing the Right U.S. Opportunity
 
 A company is an account. An opportunity is evidence of a decision-worthy change.
 
@@ -29,3 +31,13 @@ Qualification is not interrogation. Offer a useful hypothesis, ask permission, d
 A simple opportunity record should contain the problem in customer language; affected workflow/users; consequence; change event; stakeholders; current alternatives; systems/data; key unknowns; provider fit/gaps; commercial range; risks; and the mutually agreed next action. See the [opportunity framework](../../appendix/opportunity-qualification-framework.md).
 
 [Chapter 66](66-the-first-deal.md) applies this model without pretending the first deal is easy.
+
+## Questions to Think About
+
+1. Which assumptions in the choosing the right u.s. opportunity model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](64-choosing-the-right-engineering-partner.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](66-the-first-deal.md)

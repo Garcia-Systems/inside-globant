@@ -1,4 +1,6 @@
-# 38 — When Sales Becomes Delivery
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 38 — When Sales Becomes Delivery
 
 Signature changes the dominant work, but it should not create an information cliff. The engagement must carry its commercial and technical reasoning into an operating team.
 
@@ -32,3 +34,7 @@ Delivery generates the strongest account evidence: whether the provider behaves 
 1. Which presales participant should remain during mobilization?
 2. What promise is hardest to encode in a statement of work?
 3. How can change control preserve trust rather than become bureaucracy?
+
+---
+
+[Previous Chapter](37-land-expand-and-grow-the-account.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](39-reconstructing-a-hypothetical-deal.md)

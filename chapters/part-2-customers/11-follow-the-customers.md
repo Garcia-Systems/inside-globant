@@ -1,4 +1,6 @@
-# 11 — Follow the Customers
+[Inside Globant](../../README.md) · [Part II — Follow the Customers](README.md) · [Customer Index](../../appendix/customer-index.md)
+
+# Chapter 11 — Follow the Customers
 
 Part I began with Globant's organization. Part II starts somewhere less tidy: inside a customer's business. A bank wants a useful digital channel; a sports property wants fans to remain engaged between events; an automaker must connect marketing, dealers, and software; an industrial supplier must improve products used in factories. The provider's capability matters only insofar as it changes one of those situations.
 
@@ -51,3 +53,7 @@ Public cases often make the middle disappear. They show a recognized customer pr
 2. Why can a technically detailed case still tell us almost nothing about how the work was sold?
 3. When does a launched artifact count as an outcome rather than merely an output?
 4. Which unknowns matter to a customer, and which matter mainly to an analyst of the provider?
+
+---
+
+[Previous Chapter](../part-1-understanding-globant/10-what-part-i-teaches-us.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](12-google.md)

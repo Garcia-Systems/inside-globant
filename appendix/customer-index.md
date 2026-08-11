@@ -1,6 +1,8 @@
 # Customer Relationship Index
 
-Inclusion means a reliable public source documents a relationship. It does not establish current status, exclusivity, contract value, profitability, or all work performed. “Unknown” is a finding, not a blank to fill with industry convention.
+This index records only relationships supported by public evidence. Absence from the index does not imply a company is not or was not a Globant customer.
+
+Inclusion does not establish current status, exclusivity, contract value, profitability, or all work performed. “Unknown” is a finding, not a blank to fill with industry convention. Links in the final column lead to detailed chapters.
 
 | Customer | Industry | Country / major market | Relationship evidence | Problem / opportunity | Globant capability | Technology if documented | Outcome if documented | Duration if known | Source | Detailed chapter |
 |---|---|---|---|---|---|---|---|---|---|---|

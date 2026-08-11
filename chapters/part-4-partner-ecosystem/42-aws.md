@@ -1,4 +1,6 @@
-# 42 — AWS
+[Inside Globant](../../README.md) · [Part IV — The Partner Ecosystem](README.md) · [Partner Index](../../appendix/partner-index.md)
+
+# Chapter 42 — AWS
 
 AWS is the clearest example of infrastructure creating an adjacent services market. AWS supplies cloud services; a customer still has to assess applications, design a landing zone, move data and workloads, rewrite or retire systems, establish security and cost controls, and change operations.
 
@@ -45,3 +47,7 @@ The strategic-collaboration language and partner profile establish organized col
 1. Does a migration replicate an old estate or use cloud adoption to redesign it?
 2. Who owns cloud cost, security, and operational outcomes after deployment?
 3. What evidence beyond partner tier should a buyer request from the proposed team?
+
+---
+
+[Previous Chapter](41-the-ecosystem-around-globant.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](43-google-cloud.md)

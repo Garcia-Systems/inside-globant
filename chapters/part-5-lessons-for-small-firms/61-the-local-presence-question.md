@@ -1,4 +1,6 @@
-# 61 — The Local Presence Question
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 61 — The Local Presence Question
 
 A U.S. address is neither necessary for every deal nor sufficient for trust. “Local presence” bundles distinct benefits that should be tested separately.
 
@@ -23,3 +25,13 @@ A useful question is not “Do we need an American?” but:
 Possible answers include fully remote selling; periodic founder travel; a U.S.-based employee; an independent representative; distributed account and delivery leadership; or an office when demand justifies its fixed cost. Immigration, tax, employment, corporate-registration and contracting implications require qualified advisers and are outside this book.
 
 Local presence is thus an operating design choice. The independent-partner option deserves careful examination, not automatic endorsement, in [Chapter 62](62-the-independent-sales-engineering-model.md).
+
+## Questions to Think About
+
+1. Which assumptions in the the local presence question model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](60-the-technical-commercial-gap.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](62-the-independent-sales-engineering-model.md)

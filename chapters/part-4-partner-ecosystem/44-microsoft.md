@@ -1,4 +1,6 @@
-# 44 — Microsoft
+[Inside Globant](../../README.md) · [Part IV — The Partner Ecosystem](README.md) · [Partner Index](../../appendix/partner-index.md)
+
+# Chapter 44 — Microsoft
 
 Microsoft's enterprise footprint makes it an important ecosystem, but size alone does not establish Globant scope. The relevant evidence points to cloud and AI collaboration; it does not justify claiming expertise in every Microsoft product.
 
@@ -41,3 +43,7 @@ Model access does not identify the right process, secure the right data, establi
 1. Which Microsoft component is actually necessary for the outcome rather than merely available?
 2. Who is accountable for model behavior, integrated application behavior, and user adoption?
 3. What would demonstrate that a global alliance operates in a particular customer account?
+
+---
+
+[Previous Chapter](43-google-cloud.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](45-salesforce-and-enterprise-platforms.md)

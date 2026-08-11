@@ -1,4 +1,6 @@
-# 25 — Accounts, Relationships, and Trust
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 25 — Accounts, Relationships, and Trust
 
 **TRUST IS COMMERCIAL INFRASTRUCTURE.**
 
@@ -29,3 +31,7 @@ Trust also flows in both directions. The provider depends on customer access, de
 1. Which forms of trust can evidence create, and which require experience?
 2. When does retained account context become dependency?
 3. Why can governance strengthen rather than signal distrust?
+
+---
+
+[Previous Chapter](24-getting-into-the-room.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](26-business-development.md)

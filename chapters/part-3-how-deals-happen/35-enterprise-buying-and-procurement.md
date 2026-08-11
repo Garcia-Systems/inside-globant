@@ -1,4 +1,6 @@
-# 35 — Enterprise Buying and Procurement
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 35 — Enterprise Buying and Procurement
 
 “We like the solution” does not mean “we have a deal.” A sponsor's preference must pass through an enterprise decision system.
 
@@ -30,3 +32,7 @@ Large established providers invest beyond engineering because customers purchase
 1. Which stakeholder can stop a deal without owning its business outcome?
 2. Why should security enter before the final proposal?
 3. What makes a provider technically capable but commercially unbuyable?
+
+---
+
+[Previous Chapter](34-from-solution-to-commercial-proposal.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](36-partnerships-as-a-route-to-market.md)

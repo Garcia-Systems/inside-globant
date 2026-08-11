@@ -1,4 +1,6 @@
-# 30 — The Technical–Commercial Bridge
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 30 — The Technical–Commercial Bridge
 
 The most commercially valuable technical function may be translation with consequences.
 
@@ -38,3 +40,7 @@ Technical credibility is not saying yes quickly. It includes identifying what is
 1. Which technical fact most often changes a business decision?
 2. Why is translating uncertainty more valuable than hiding it?
 3. What continuity should exist between solution design and delivery?
+
+---
+
+[Previous Chapter](29-discovery.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](31-solution-architecture-and-specialists.md)

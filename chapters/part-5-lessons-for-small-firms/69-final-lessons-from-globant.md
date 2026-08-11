@@ -1,4 +1,6 @@
-# 69 — Final Lessons from Globant
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 69 — Final Lessons from Globant
 
 The book began with a question: **How does a global technology-services company turn distributed engineering capability into valuable engagements with major businesses?**
 
@@ -39,3 +41,13 @@ No boundary is absolute. The durable control is that customer promises reach tec
 ## Final evidentiary boundary
 
 This is an analytical reconstruction from public sources, not Globant's confidential playbook, a claim that all services firms work alike, or a guarantee that an independent representative or any other model will succeed. The remaining unknowns are recorded in the [Evidence-Gap Register](../../sources/evidence-gaps.md), and the argument's principal conclusions are indexed in [Key Lessons](../../appendix/key-lessons.md).
+
+## Questions to Think About
+
+1. Which assumptions in the final lessons from globant model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](68-the-globant-at-100-people-model.md) | [Table of Contents](../../CONTENTS.md) | [Next: Key Lessons](../../appendix/key-lessons.md)

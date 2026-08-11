@@ -1,4 +1,6 @@
-# 60 — The Technical–Commercial Gap
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 60 — The Technical–Commercial Gap
 
 Two valid languages meet in a technology engagement:
 
@@ -40,3 +42,13 @@ A salesperson may excel at relationships and process without designing systems. 
 At small scale, one person can facilitate this loop but should not become an unreviewed oracle. Require engineering sign-off on material assumptions and commercial confirmation when design changes price or terms. Measure the function by qualified decisions, promise quality and delivery continuity—not demonstrations or meetings alone.
 
 Whether this bridge must be physically local is the next question in [Chapter 61](61-the-local-presence-question.md).
+
+## Questions to Think About
+
+1. Which assumptions in the the technical–commercial gap model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](59-the-discovery-gap.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](61-the-local-presence-question.md)

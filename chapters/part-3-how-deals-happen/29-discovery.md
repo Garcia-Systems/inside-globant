@@ -1,4 +1,6 @@
-# 29 — Discovery
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 29 — Discovery
 
 Discovery turns a request into a problem that can be decided and delivered. Globant markets strategy/consulting, design, product and engineering capabilities; its customer stories describe interventions whose visible artifact required prior understanding ([Services](https://www.globant.com/services), [customer stories](https://www.globant.com/customers)). Those sources support the existence of diagnostic work in the offer. They do **not** publish a universal proprietary discovery framework.
 
@@ -31,3 +33,7 @@ A useful discovery output is not maximal documentation. It is sufficient shared 
 1. Which discovery question identifies the economic buyer?
 2. When should uncertainty produce a smaller first engagement?
 3. Why can “build the requested platform” be poor consulting?
+
+---
+
+[Previous Chapter](28-industry-and-domain-expertise.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](30-the-technical-commercial-bridge.md)
