@@ -34,6 +34,8 @@ Definitions are used in this book; firms may use the same words differently.
 
 **Distributed delivery** — performance of an engagement by people in more than one location.
 
+**Global delivery** — an operating model that can assemble and govern work across countries or regions. It describes capability and coordination, not a promise that every engagement uses multiple locations.
+
 **Fixed price** — a commercial form in which an agreed price is associated with defined scope or deliverables, transferring more estimation/scope risk to the provider than straightforward time-and-materials work.
 
 **General industry model** — an explanatory model of common professional-services activity that is not presented as documented Globant practice.
@@ -52,7 +54,11 @@ Definitions are used in this book; firms may use the same words differently.
 
 **Nearshore** — cross-border delivery from a relatively proximate geography, commonly with meaningful working-hour overlap.
 
+**Managed services** — continuing responsibility for operating or supporting a defined service, commonly governed by service levels and operating measures; it is not synonymous with building a project.
+
 **Offshore** — cross-border delivery from a more distant geography; the boundary with nearshore is contextual.
+
+**Outsourcing** — contracting an external organization to perform a function, process, or body of work. The term does not specify whether the purchase is labor capacity, a project, a managed service, or an outcome.
 
 **Onshore / onsite** — respectively, provider work within the customer's country / work at or directly alongside a customer location.
 
@@ -62,9 +68,15 @@ Definitions are used in this book; firms may use the same words differently.
 
 **Sales engineering / solution consulting** — customer-facing technical functions that help discover needs, demonstrate credibility, test feasibility, and shape a solution. This book does not assume Globant uses either title universally.
 
+**Presales / technical presales** — work performed before commitment to qualify, discover, design, demonstrate, estimate, and control technical promises. It is a phase or function, not necessarily a department.
+
+**Sales Engineer / Solutions Engineer / Presales Consultant** — organization-specific **titles** often associated with some technical-presales functions. They are not automatically interchangeable: one firm may emphasize product demonstration, another discovery or solution design, and another commercial support.
+
 **Technical–commercial bridge** — the person or distributed function that translates customer objectives into engineering implications and technical realities back into business decisions; not necessarily a formal title or department.
 
 **Solution architecture** — translation of objectives and constraints into a feasible technical structure and delivery approach.
+
+**Solution Architect** — an organization-specific **title** whose holder may own architecture, advise presales, govern delivery, or combine these responsibilities. The title alone does not establish commercial authority or participation in a sale.
 
 **Specialization** — focused expertise, or a vendor designation for such expertise, in a technology, workload, industry, or outcome. When capitalized or used as a program term, its vendor-specific criteria should be checked.
 

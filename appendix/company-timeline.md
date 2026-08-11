@@ -14,4 +14,4 @@ This selective timeline records milestones relevant to the business model, not e
 | 2022 | FIFA and Globant announce a multiyear partnership. | Public example combining platform work, a major global institution, and sponsorship. | [FIFA announcement](https://www.fifa.com/about-fifa/commercial/media-releases/fifa-and-globant-announce-multi-year-partnership) |
 | 2024 | Globant reports $2.421 billion FY2024 revenue and 31,107 Globers at year-end. | Audited scale baseline for the services engine. | [FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude) |
 
-Dates and metrics should be revalidated against the cited filings when a later edition changes the financial baseline.
+Dates and metrics should be revalidated against the cited filings when a later edition changes the financial baseline. The [key company metrics](key-company-metrics.md) keeps period definitions separate from this strategic chronology.

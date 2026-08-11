@@ -3,6 +3,8 @@
 
 *Inside Globant* is a research-driven textbook about Globant and, through that case, the global technology-services industry. It is not investment research, a corporate history commissioned by Globant, or an executable course. It contains no application, simulation, or coding exercises.
 
+Start with the concise [Preface](PREFACE.md), which explains the case selection, evidentiary limits, and five-Part argument.
+
 The book's central question is:
 
 > **How does a global technology-services company turn distributed engineering capability into valuable engagements with major businesses?**
@@ -33,6 +35,28 @@ The book:
 Every important contemporary company claim should have an inline link. The [source register](sources/source-register.md) records what each source actually establishes; the [bibliography](appendix/bibliography.md) provides a compact reading list; and [research notes](sources/research-notes.md) preserve uncertainties. Sources were accessed on **2026-08-11** unless noted. The audited FY2024 Form 20-F is the common quantitative baseline.
 
 The text distinguishes **documented fact**, **reasonable inference**, **general industry model**, and **unknown**. Customer stories establish only the claims they actually make; marketing pages establish positioning, not independently verified outcomes. Current facts are dated, and Globant-specific evidence is not silently generalized to smaller firms.
+
+## Central Model
+
+```text
+BUSINESS PROBLEM
+       ↓
+MARKET / RELATIONSHIP
+       ↓
+DISCOVERY
+       ↓
+TECHNICAL-COMMERCIAL TRANSLATION
+       ↓
+SOLUTION
+       ↓
+GLOBAL DELIVERY
+       ↓
+BUSINESS OUTCOME
+       ↓
+ACCOUNT EXPANSION
+```
+
+The book investigates the organizations, people, economics, and technologies around this chain. Each arrow is conditional: access does not guarantee discovery, a solution does not guarantee approval, delivery does not alone cause a business outcome, and an outcome does not entitle the provider to expansion.
 
 ## Complete table of contents
 
@@ -124,6 +148,7 @@ The text distinguishes **documented fact**, **reasonable inference**, **general 
 ### Appendices
 
 - [Company Timeline](appendix/company-timeline.md)
+- [Key Company Metrics](appendix/key-company-metrics.md)
 - [Customer Index](appendix/customer-index.md)
 - [Partner Index](appendix/partner-index.md)
 - [Globant vs. Small Firm](appendix/globant-vs-small-firm.md)
@@ -133,7 +158,9 @@ The text distinguishes **documented fact**, **reasonable inference**, **general 
 - [Deal Anatomy](appendix/deal-anatomy.md)
 - [Glossary](appendix/glossary.md)
 - [Bibliography](appendix/bibliography.md)
+- [Key Lessons](appendix/key-lessons.md)
 - [Questions for Further Research](appendix/questions-for-further-research.md)
+- [Evidence-Gap Register](sources/evidence-gaps.md)
 
 ## How to read
 
@@ -148,3 +175,7 @@ business problem → credible access → discovery and solution definition
 ```
 
 Use the [glossary](appendix/glossary.md) and appendices as maps, not substitutes for source context. This is an independent educational project. Globant names and marks belong to their respective owners.
+
+## Audience and use
+
+The book is intended for engineers, consultants, account and presales professionals, services-firm leaders, buyers, and students of technology-services economics. Readers may cite a chapter for its analysis, but should cite the linked original source—not this manuscript—when asserting a company fact. Preserve the reporting period and the manuscript's fact/inference/unknown distinction. Suggested citation: *Inside Globant: How a Global Technology Services Company Connects Business Problems with Global Engineering Talent*, chapter number and title, repository revision or commit, access date.
