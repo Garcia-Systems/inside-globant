@@ -77,3 +77,19 @@ Definitions are used in this book; firms may use the same words differently.
 **Technology partner** — an organization with a documented relationship involving technology, capability, market activity, or delivery. Because the term is broad, the precise relationship and evidence should always follow it.
 
 **Utilization** — proportion of available delivery capacity applied to qualifying productive or billable work. Always ask for the numerator, denominator, and period.
+
+**Customer acquisition cost (CAC)** — sales and marketing cost associated with acquiring customers under a stated allocation method and period; project-pursuit cost and company-wide CAC are not automatically the same.
+
+**Fractional leader** — an experienced professional supplying a defined portion of an executive or functional role across less than a full-time position; scope, authority and availability must be explicit.
+
+**Gross profit** — revenue less cost of revenue in currency terms. It differs from gross margin (a percentage) and from operating profit.
+
+**Independent sales representative** — a nonemployee party engaged to represent or develop business under agreed authority and economics; legal treatment varies and the label alone does not confer authority to bind.
+
+**Lead generation** — activity that identifies or creates potential contacts or interest; it is earlier and less qualified than a validated opportunity.
+
+**Local presence** — availability, access, representation or physical operations near a customer. This book separates those benefits rather than treating a local address as proof of each.
+
+**Referral partner** — a party that introduces or refers potential business under stated conditions; referral does not by itself include discovery, proposal authority, account ownership or delivery responsibility.
+
+**Retainer** — recurring fee reserving defined access or activity for a period; deliverables, capacity and success payments require separate definition.

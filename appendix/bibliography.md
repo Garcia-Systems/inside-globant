@@ -52,3 +52,17 @@ The [source register](../sources/source-register.md) is the controlling annotate
 * NVIDIA and Globant. **Partner locator and alliance capability.** [NVIDIA locator](https://www.nvidia.com/en-us/about-nvidia/partners/partner-locator/); [Globant alliance page](https://www.globant.com/partners/nvidia).
 * OpenAI and Globant. **Strategic collaboration.** [OpenAI announcement](https://openai.com/index/globant-collaboration/); [Globant announcement](https://www.globant.com/news/globant-and-openai-announce-strategic-collaboration).
 * Adobe, SAP, Oracle, ServiceNow, Atlassian, and commercetools. **Official alliance pages and vendor partner directories.** See the annotated [source register](../sources/source-register.md) and [partner index](partner-index.md) for evidence limits and verification date.
+
+## Part V — smaller global engineering firms
+
+* World Trade Organization and partner institutions. **Digital Trade for Development.** 2023. [Report](https://www.wto.org/english/res_e/booksp_e/dtd2023_e.pdf).
+* World Bank. **Digital Progress and Trends Report.** [Publication series](https://www.worldbank.org/en/publication/digital-progress-and-trends-report).
+* International Labour Organization. **ILOSTAT.** [Labor statistics](https://ilostat.ilo.org/data/).
+* U.S. International Trade Administration. **Professional Services.** [Trade portal](https://www.trade.gov/professional-services).
+* National Institute of Standards and Technology. **Cybersecurity Framework 2.0** and **Secure Software Development Framework.** [CSF](https://www.nist.gov/cyberframework); [SSDF](https://csrc.nist.gov/Projects/ssdf).
+* AICPA & CIMA. **System and Organization Controls resources.** [SOC information](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2).
+* U.S. Bureau of Labor Statistics. **Telework reporting.** [The Economics Daily](https://www.bls.gov/opub/ted/).
+* AWS and Microsoft. **Partner program overviews.** [AWS Partner Network](https://aws.amazon.com/partners/); [Microsoft AI Cloud Partner Program](https://partner.microsoft.com/). These establish example ecosystem forms, not independent-representative terms.
+* EF. **English Proficiency Index.** [Index and methodology](https://www.ef.com/wwen/epi/). Used only with its sampling limitations; never to assess an individual provider.
+
+Part V's commission, referral, revenue-share, retainer and margin examples are explicitly hypothetical general-industry models. No reviewed source establishes Globant's private compensation arrangements.

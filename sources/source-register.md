@@ -65,3 +65,19 @@
 2. Record the narrow proposition supported and material limitations.
 3. Prefer a filing, customer, or partner source over Globant marketing where both exist.
 4. Archive or replace dead links in a later edition without silently changing what a citation established.
+
+## Part V supplemental sources
+
+| ID | Source title | Organization | URL | Published | Type | Used in chapters | What it establishes / limits |
+|---|---|---|---|---|---|---|---|
+| S55 | Digital Trade for Development | WTO and partner institutions | [Report](https://www.wto.org/english/res_e/booksp_e/dtd2023_e.pdf) | 2023 | Multilateral report | 54, 57, 61 | Scale and enabling conditions of digitally delivered trade; does not evaluate an individual region, provider or sales model. |
+| S56 | Digital Progress and Trends Report | World Bank | [Series](https://www.worldbank.org/en/publication/digital-progress-and-trends-report) | current series | Multilateral report | 54 | Global digital participation and skills context; national/aggregate evidence cannot score a proposed team. |
+| S57 | ILOSTAT | International Labour Organization | [Database](https://ilostat.ilo.org/data/) | current database | Official statistics | 54 | Labor-market context; definitions, periods and coverage must be selected and does not establish provider quality. |
+| S58 | English Proficiency Index | EF | [Index](https://www.ef.com/wwen/epi/) | annual | Private index | 54 | One contextual indicator based on test takers; sampling limitations make it unsuitable for judging individuals or firms. |
+| S59 | Professional services trade information | U.S. International Trade Administration | [Portal](https://www.trade.gov/professional-services) | current page | Government trade guidance | 57 | General exporter and market context; not evidence that every software provider faces identical barriers. |
+| S60 | Cybersecurity Framework 2.0 | NIST | [Framework](https://www.nist.gov/cyberframework) | 2024 | Government framework | 58, 64 | Risk-governance vocabulary and outcomes; use does not certify a provider or guarantee security. |
+| S61 | Secure Software Development Framework | NIST | [Project/publication](https://csrc.nist.gov/Projects/ssdf) | current | Government framework | 58, 64 | Secure-development practices and review vocabulary; must be tailored and verified in operation. |
+| S62 | SOC information | AICPA & CIMA | [Resource](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2) | current | Professional-body guidance | 58 | Assurance context; a report's system, criteria, period, auditor opinion and exceptions determine meaning. |
+| S63 | AWS Partner Network | AWS | [Program](https://aws.amazon.com/partners/) | current | Vendor program | 62 | Demonstrates multiple technology-partner motions; not a template for independent representation economics. |
+| S64 | Microsoft AI Cloud Partner Program | Microsoft | [Program](https://partner.microsoft.com/) | current | Vendor program | 62 | Demonstrates a structured vendor ecosystem; does not establish the best route for a services exporter. |
+| S65 | Telework reporting | U.S. Bureau of Labor Statistics | [The Economics Daily](https://www.bls.gov/opub/ted/) | current series | Government statistics | 61 | Continued measurement/existence of telework; does not establish suitability for a particular sale or project. |
