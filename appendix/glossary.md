@@ -10,6 +10,10 @@ Definitions are used in this book; firms may use the same words differently.
 
 **Business development** — activity that creates, develops, or qualifies commercial opportunities.
 
+**Commercial engine** — the connected capabilities that turn market access and customer problems into feasible, purchasable, deliverable engagements; not a claimed Globant department or proprietary method.
+
+**Commercial proposal** — an offer that translates a solution into commitments about scope, deliverables, team, timing, responsibilities, assumptions, price and terms.
+
 **Client / customer concentration** — the portion of revenue associated with one client or a small group; scale in an account can create efficiency and dependency risk.
 
 **Consulting** — structured diagnosis and advice about choices, operating implications, and change; it may be paired with implementation.
@@ -24,6 +28,8 @@ Definitions are used in this book; firms may use the same words differently.
 
 **Fixed price** — a commercial form in which an agreed price is associated with defined scope or deliverables, transferring more estimation/scope risk to the provider than straightforward time-and-materials work.
 
+**General industry model** — an explanatory model of common professional-services activity that is not presented as documented Globant practice.
+
 **Glober** — Globant's term for a member of its workforce; use in a filing may have a defined period and scope.
 
 **Gross margin** — revenue less cost of revenues, divided by revenue. It is not operating margin and does not include every cost of running the company.
@@ -37,6 +43,8 @@ Definitions are used in this book; firms may use the same words differently.
 **Professional services** — expertise and organized labor applied to a client's specific situation, rather than only access to a standardized product.
 
 **Sales engineering / solution consulting** — customer-facing technical functions that help discover needs, demonstrate credibility, test feasibility, and shape a solution. This book does not assume Globant uses either title universally.
+
+**Technical–commercial bridge** — the person or distributed function that translates customer objectives into engineering implications and technical realities back into business decisions; not necessarily a formal title or department.
 
 **Solution architecture** — translation of objectives and constraints into a feasible technical structure and delivery approach.
 
