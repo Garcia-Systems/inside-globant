@@ -1,6 +1,10 @@
 # Partner Index
 
+This index records only relationships supported by public evidence. Absence does not imply that a company has no relationship with Globant.
+
 **Verification date:** 2026-08-11. This is an evidence index, not a ranking or exhaustive directory. “Current” means an official page or vendor directory was identified at review time; directory status and program labels can change. A relationship does not prove referrals, revenue sharing, or participation in every implementation.
+
+Relationship types are kept distinct: a **customer relationship** concerns work Globant performs for a buyer; a **technology partnership** concerns complementary technical capabilities; a **strategic alliance** adds an explicitly documented joint commercial or capability commitment; and a **platform ecosystem relationship** may mean directory participation or implementation capability without evidence of a joint sale.
 
 | Partner | Category | Relationship type | Globant capabilities involved | Joint offering if documented | Customer example | Evidence | Source | Last verified |
 |---|---|---|---|---|---|---|---|---|

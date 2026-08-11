@@ -1,4 +1,6 @@
-# 63 — How the Economics Might Work
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 63 — How the Economics Might Work
 
 > **GENERAL INDUSTRY MODELS AND HYPOTHETICAL NUMBERS—NOT GLOBANT COMPENSATION OR MARGINS.** Agreements require accounting, tax and legal advice.
 
@@ -28,3 +30,13 @@ Compensation should follow controllable value. An introducer does not own delive
 The strongest incentive control is not a clever percentage. It is a gate: no proposal without validated problem, sponsor, technical fit, capacity, estimate assumptions, commercial floor, risk review and next decision. The provider should model downside, cash timing and presales opportunity cost before agreeing economics.
 
 Economics cannot make an unsafe delivery partner safe. [Chapter 64](64-choosing-the-right-engineering-partner.md) begins with reputation at risk.
+
+## Questions to Think About
+
+1. Which assumptions in the how the economics might work model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](62-the-independent-sales-engineering-model.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](64-choosing-the-right-engineering-partner.md)

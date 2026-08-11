@@ -1,4 +1,6 @@
-# 21 — From Project to Strategic Account
+[Inside Globant](../../README.md) · [Part II — Follow the Customers](README.md) · [Customer Index](../../appendix/customer-index.md)
+
+# Chapter 21 — From Project to Strategic Account
 
 A project has a boundary. An account is a continuing commercial and delivery relationship that may contain many boundaries. Globant's filings make account durability economically visible without disclosing any customer's private ledger.
 
@@ -40,3 +42,7 @@ Large accounts can improve selling efficiency and provide durable demand. They c
 2. When does retained context become unhealthy customer dependency?
 3. Why can a strategically important customer also be a financial risk?
 4. What evidence would distinguish deliberate cross-selling from unrelated repeat projects?
+
+---
+
+[Previous Chapter](20-what-customers-actually-buy.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](22-what-part-ii-teaches-us.md)

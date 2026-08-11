@@ -1,4 +1,6 @@
-# 13 — Electronic Arts: The Lesson in a Long Relationship
+[Inside Globant](../../README.md) · [Part II — Follow the Customers](README.md) · [Customer Index](../../appendix/customer-index.md)
+
+# Chapter 13 — Electronic Arts: The Lesson in a Long Relationship
 
 Electronic Arts (EA) makes and operates interactive entertainment. Games combine creative production with software engineering, proprietary tools, online services, releases across hardware platforms, live operations, and demand that can change around launches. That context makes specialized capacity potentially valuable—but it does not tell us what Globant did.
 
@@ -30,3 +32,7 @@ That pattern challenges a simplistic divide between “technology companies buil
 2. Why is relationship duration evidence of repeat purchase but not necessarily account growth?
 3. Which responsibilities should a game publisher be reluctant to externalize, and why?
 4. What technical artifacts would best reveal the boundary between EA and Globant teams?
+
+---
+
+[Previous Chapter](12-google.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](14-santander.md)

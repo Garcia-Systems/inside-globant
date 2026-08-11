@@ -1,4 +1,6 @@
-# 57 — The U.S. Market Gap
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 57 — The U.S. Market Gap
 
 **Technical capability is not market access.** The claim is structural, not national: a provider can be excellent at work it receives while lacking a reliable way to identify demand, earn attention, navigate a buying group, and form a contract.
 
@@ -30,3 +32,13 @@ Friction can appear in several places:
 Different firms have different gaps. A staff-augmentation supplier serving a technically mature buyer may need recruiting proof and account responsiveness more than discovery. A boutique selling operational transformation needs domain diagnosis, executive communication and architecture. A product-development partner may need product judgment and research. “Hire a U.S. sales engineer” is therefore a hypothesis, not the conclusion.
 
 [Chapter 58](58-the-trust-gap.md) separates trust evidence from geographic symbolism.
+
+## Questions to Think About
+
+1. Which assumptions in the the u.s. market gap model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](56-what-small-firms-cannot-copy.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](58-the-trust-gap.md)

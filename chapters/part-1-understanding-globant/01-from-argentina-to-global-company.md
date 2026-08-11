@@ -1,4 +1,6 @@
-# 1 — From Argentina to Global Company
+[Inside Globant](../../README.md) · [Part I — Understanding the Globant Machine](README.md)
+
+# Chapter 1 — From Argentina to Global Company
 
 Globant was founded in Buenos Aires in 2003 by Martín Migoya, Guibert Englebienne, Martín Umaran, and Néstor Nocetti. Its own history describes an ambition to build from Latin America for global customers; its 2014 initial public offering made it the first Latin American software company to list on the NYSE, according to Globant ([company history](https://www.globant.com/about), [2014 IPO announcement](https://investors.globant.com/news-releases)).
 
@@ -50,3 +52,7 @@ Acquisitions compress time but do not abolish integration. Buying a consultancy 
 2. Why can buying a design consultancy change a provider's access to executive problems even if it adds fewer engineers than a delivery acquisition?
 3. What institutional capabilities does an enterprise customer expect that a small engineering shop may not need?
 4. How would public-company status alter both opportunity and operating discipline?
+
+---
+
+[Previous Chapter](00-the-globant-question.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](02-what-globant-actually-sells.md)

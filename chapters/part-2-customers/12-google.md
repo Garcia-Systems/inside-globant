@@ -1,4 +1,6 @@
-# 12 — Google: Customer, Partner, or Both?
+[Inside Globant](../../README.md) · [Part II — Follow the Customers](README.md) · [Customer Index](../../appendix/customer-index.md)
+
+# Chapter 12 — Google: Customer, Partner, or Both?
 
 Google is important precisely because the public record is easy to overread. Globant's corporate history identifies Google as an early client, and its FY2024 filing names Google among customers served. Separately, Globant and Google Cloud maintain a technology-ecosystem relationship. Those propositions can both be true; they are not interchangeable ([Globant About](https://www.globant.com/about), [FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude), [Google Cloud partner expansion](https://www.globant.com/news/globant-expands-partnership-google-cloud)).
 
@@ -32,3 +34,7 @@ The Google case establishes an evidentiary discipline that applies throughout Pa
 2. How could a provider benefit from a platform partnership without the platform company buying services?
 3. Why might the most prestigious logo be less educational than a modest but technically documented case?
 4. Which project facts would be necessary before drawing conclusions about specialized talent or account expansion?
+
+---
+
+[Previous Chapter](11-follow-the-customers.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](13-electronic-arts.md)

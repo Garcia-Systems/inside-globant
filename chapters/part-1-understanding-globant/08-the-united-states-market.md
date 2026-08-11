@@ -1,4 +1,6 @@
-# 8 — The United States Market
+[Inside Globant](../../README.md) · [Part I — Understanding the Globant Machine](README.md)
+
+# Chapter 8 — The United States Market
 
 North America is Globant's largest disclosed revenue region, and the company maintains US locations and publicly documented relationships with US-based organizations. Its annual report explains revenue by geography based on customer location and should be used for the period-specific proportion; the locations directory lists current public addresses ([FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude), [locations](https://www.globant.com/contact)). “North America” must not be silently relabeled “United States”: it includes more than one country.
 
@@ -47,3 +49,7 @@ For a smaller firm, the lesson is not to imitate Globant's office map. It is to 
 2. Which risks grow when the commercial team and most engineers work in different countries?
 3. How can a partner relationship create credibility without necessarily creating demand?
 4. What evidence would be required to map Globant's US organization responsibly?
+
+---
+
+[Previous Chapter](07-the-economics-of-globant.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](09-the-commercial-technical-delivery-chain.md)

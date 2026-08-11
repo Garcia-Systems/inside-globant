@@ -1,4 +1,6 @@
-# 48 — How Platforms Create Services Work
+[Inside Globant](../../README.md) · [Part IV — The Partner Ecosystem](README.md) · [Partner Index](../../appendix/partner-index.md)
+
+# Chapter 48 — How Platforms Create Services Work
 
 A software product and a consulting service can be substitutes at one layer and complements at another. A managed database substitutes for building database machinery. It may simultaneously create work to redesign schemas, migrate data, integrate applications, secure access, and operate the new estate.
 
@@ -63,3 +65,7 @@ The commercial insight is not “technology always produces services.” It is n
 1. Where did the platform remove work, and where did it relocate work?
 2. What portion of ongoing service is value-adding improvement versus avoidable complexity?
 3. How would the buyer measure implementation success independently of platform consumption?
+
+---
+
+[Previous Chapter](47-other-strategic-technology-partners.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](49-co-selling-and-routes-to-market.md)

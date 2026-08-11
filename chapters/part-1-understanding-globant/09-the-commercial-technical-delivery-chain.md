@@ -1,4 +1,6 @@
-# 9 — The Commercial–Technical–Delivery Chain
+[Inside Globant](../../README.md) · [Part I — Understanding the Globant Machine](README.md)
+
+# Chapter 9 — The Commercial–Technical–Delivery Chain
 
 Part I can now assemble the mechanism. The model below is a **conceptual services lifecycle**, not a claim that Globant mandates these labels, gates, or sequence on every engagement.
 
@@ -77,3 +79,7 @@ Expansion should not be interpreted solely as selling more people. Delivery reve
 3. What commercial information does delivery need, and what technical information does sales need?
 4. How could incentives prevent account expansion from undermining customer value?
 5. Why is “unknown” a useful finding when reconstructing a services engagement?
+
+---
+
+[Previous Chapter](08-the-united-states-market.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](10-what-part-i-teaches-us.md)

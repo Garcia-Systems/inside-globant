@@ -1,4 +1,6 @@
-# 33 — Scoping, Estimation, and Feasibility
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 33 — Scoping, Estimation, and Feasibility
 
 Services sales requires technical estimation because the provider is selling future coordinated work, not an already manufactured unit.
 
@@ -35,3 +37,7 @@ Feasibility includes organizational reality. A build can be technically possible
 1. Which assumptions should become contractual dependencies?
 2. When is a range more honest than a point estimate?
 3. How does contract form change—not eliminate—scope risk?
+
+---
+
+[Previous Chapter](32-bringing-the-global-team-into-the-deal.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](34-from-solution-to-commercial-proposal.md)

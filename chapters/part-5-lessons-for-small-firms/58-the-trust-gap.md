@@ -1,4 +1,6 @@
-# 58 — The Trust Gap
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 58 — The Trust Gap
 
 **Trust is commercial infrastructure:** accumulated evidence that lets a buyer accept dependency under uncertainty. It is not friendliness, and it cannot eliminate project risk.
 
@@ -24,3 +26,13 @@ Local presence can contribute an escalation point, shared hours or onsite work. 
 A useful diligence pack contains corporate identity and ownership; relevant references; team biographies; delivery and quality practices; security policies and scoped reports; subcontractor disclosure; continuity and incident processes; insurance certificates; sample governance; and clear assumptions. Buyers should verify rather than count documents.
 
 Trust grows fastest when discovery itself creates insight without pretending certainty. That is the subject of [Chapter 59](59-the-discovery-gap.md).
+
+## Questions to Think About
+
+1. Which assumptions in the the trust gap model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](57-the-us-market-gap.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](59-the-discovery-gap.md)

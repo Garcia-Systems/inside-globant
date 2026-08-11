@@ -1,4 +1,6 @@
-# 2 — What Globant Actually Sells
+[Inside Globant](../../README.md) · [Part I — Understanding the Globant Machine](README.md)
+
+# Chapter 2 — What Globant Actually Sells
 
 Globant does not sell a single packaged product. It sells organized intervention in a client's business and technology system. The tangible outputs may be research, a roadmap, a redesigned journey, software, a migrated platform, a model, integrations, or an operated service. The commercial object is access to a provider that can define and deliver some combination of those outputs.
 
@@ -57,3 +59,7 @@ When evaluating a services proposal, replace nouns with commitments. “Cloud”
 2. What additional evidence would be needed to call a particular engagement “outcome based”?
 3. Why do cloud, experience, data, and product engineering categories overlap in real programs?
 4. When might a buyer rationally prefer individual contractors to an integrated provider?
+
+---
+
+[Previous Chapter](01-from-argentina-to-global-company.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](03-why-companies-hire-globant.md)

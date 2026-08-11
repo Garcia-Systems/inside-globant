@@ -1,4 +1,6 @@
-# 50 — Certifications, Specialization, and Trust
+[Inside Globant](../../README.md) · [Part IV — The Partner Ecosystem](README.md) · [Partner Index](../../appendix/partner-index.md)
+
+# Chapter 50 — Certifications, Specialization, and Trust
 
 Enterprise buyers cannot directly observe all of a supplier's skill before awarding work. Credentials compress some evidence into signals that procurement and technical evaluators can inspect.
 
@@ -50,3 +52,7 @@ The buyer should ask for credential identifiers where appropriate, current verif
 1. Is the credential current, relevant, and attached to the proposed team?
 2. Which delivery risk does it reduce—and which risks remain untouched?
 3. Could a vendor credential bias architecture toward that vendor?
+
+---
+
+[Previous Chapter](49-co-selling-and-routes-to-market.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](51-the-three-party-enterprise-deal.md)

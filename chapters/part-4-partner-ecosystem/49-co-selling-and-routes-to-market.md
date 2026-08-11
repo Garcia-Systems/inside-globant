@@ -1,4 +1,6 @@
-# 49 — Co-selling and Routes to Market
+[Inside Globant](../../README.md) · [Part IV — The Partner Ecosystem](README.md) · [Partner Index](../../appendix/partner-index.md)
+
+# Chapter 49 — Co-selling and Routes to Market
 
 Part III showed that partnerships can be one way into a buying conversation. This chapter separates the routes that are often collapsed into the word “partner.”
 
@@ -57,3 +59,7 @@ Routes also affect power and risk. The party that originates and owns the execut
 1. Who introduced the problem, who influenced platform selection, and who owns the account?
 2. Are vendor and services purchases independently contestable?
 3. What must a joint sales claim disclose to be decision-useful?
+
+---
+
+[Previous Chapter](48-how-platforms-create-services-work.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](50-certifications-specialization-and-trust.md)

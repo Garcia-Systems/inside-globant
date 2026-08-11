@@ -1,4 +1,6 @@
-# 0 — The Globant Question
+[Inside Globant](../../README.md) · [Part I — Understanding the Globant Machine](README.md)
+
+# Chapter 0 — The Globant Question
 
 Calling Globant a “software company” confuses what it produces with how it earns. A product company ordinarily builds one replicable asset and sells access many times. Globant primarily earns by applying people and capabilities to client work. Calling it an “outsourcing company” is also too thin: it suggests that a buyer hands over a fixed specification to cheaper programmers. Globant's regulatory description instead spans strategy, experience, engineering, data and AI, and enterprise platforms, delivered through long-lived client relationships ([Globant FY2024 Form 20-F, pp. 31–40](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude)).
 
@@ -48,3 +50,7 @@ Throughout the book, read public material at three levels. A regulatory filing i
 2. Which link in the diagram is hardest for a technically excellent but commercially inexperienced firm to build?
 3. What evidence would distinguish outcome selling from polished descriptions of staff augmentation?
 4. Why might the same person perform several connecting functions in one deal but not another?
+
+---
+
+[Previous Chapter](../../PREFACE.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](01-from-argentina-to-global-company.md)

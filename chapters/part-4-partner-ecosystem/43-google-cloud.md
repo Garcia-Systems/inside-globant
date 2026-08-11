@@ -1,4 +1,6 @@
-# 43 — Google Cloud
+[Inside Globant](../../README.md) · [Part IV — The Partner Ecosystem](README.md) · [Partner Index](../../appendix/partner-index.md)
+
+# Chapter 43 — Google Cloud
 
 Google appears in this book in two logically separate positions. Part II examined evidence concerning Google as a Globant customer. Here, Google Cloud is a technology vendor around which Globant supplies capabilities to other customers. Neither relationship proves the other.
 
@@ -42,3 +44,7 @@ The two relationship types should remain separate in account analysis:
 1. How should a buyer divide responsibility between cloud service levels and implementation outcomes?
 2. Why is a partner directory stronger than a logo but weaker than a customer case?
 3. Can a firm be simultaneously customer, supplier, collaborator, and competitor?
+
+---
+
+[Previous Chapter](42-aws.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](44-microsoft.md)

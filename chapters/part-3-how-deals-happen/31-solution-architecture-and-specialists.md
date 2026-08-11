@@ -1,4 +1,6 @@
-# 31 — Solution Architecture and Specialists
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 31 — Solution Architecture and Specialists
 
 An account leader cannot be expected to design every cloud landing zone, data model, game pipeline, bank control and venue integration. Yet bringing ten engineers to the first exploratory meeting can be expensive and confusing. The solution is **progressive technical involvement**.
 
@@ -24,3 +26,7 @@ Architecture connects desired behavior to systems, interfaces, quality attribute
 1. Which uncertainty justifies adding a specialist?
 2. When does more expertise reduce rather than increase clarity?
 3. Why should the prospective delivery lead challenge the architecture?
+
+---
+
+[Previous Chapter](30-the-technical-commercial-bridge.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](32-bringing-the-global-team-into-the-deal.md)

@@ -1,4 +1,6 @@
-# 18 — Rockwell Automation: Digital Engineering for an Industrial Technology Company
+[Inside Globant](../../README.md) · [Part II — Follow the Customers](README.md) · [Customer Index](../../appendix/customer-index.md)
+
+# Chapter 18 — Rockwell Automation: Digital Engineering for an Industrial Technology Company
 
 Rockwell Automation sells industrial automation and digital-transformation technology. It is itself an engineering company whose products operate in production environments. Globant and Rockwell have publicly announced a relationship, and Globant presents Rockwell customer material ([Rockwell Automation newsroom](https://www.rockwellautomation.com/en-us/company/news.html), [Globant customers](https://www.globant.com/customers)). The public detail is thinner and more provider-led than the Formula 1 case, so this chapter does not fabricate a factory implementation.
 
@@ -34,3 +36,7 @@ An industrial customer may buy external help despite deep engineering capability
 2. Which forms of testing become more important when software touches production workflows?
 3. How should evidence standards change when a provider story lacks a customer-side technical artifact?
 4. What stays constant in solution discovery across a fan app and an industrial platform?
+
+---
+
+[Previous Chapter](17-nissan.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](19-additional-customer-patterns.md)

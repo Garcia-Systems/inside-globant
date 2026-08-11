@@ -1,4 +1,6 @@
-# 59 — The Discovery Gap
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 59 — The Discovery Gap
 
 A specification describes requested behavior. Discovery investigates whether that behavior addresses a valuable problem under real constraints.
 
@@ -28,3 +30,13 @@ Globant's public [services](https://www.globant.com/services), design/consulting
 A firm waiting for perfect specifications competes primarily on execution, staffing, rate, and reliability. A consulting-oriented provider competes earlier: it helps determine what should be bought. Neither is universally superior. Customer maturity, ambiguity, regulation, urgency and provider competence determine the useful model.
 
 Discovery creates a second problem: someone must translate its business findings into engineering choices and engineering limits back into a buying decision. [Chapter 60](60-the-technical-commercial-gap.md) examines that bridge.
+
+## Questions to Think About
+
+1. Which assumptions in the the discovery gap model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](58-the-trust-gap.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](60-the-technical-commercial-gap.md)

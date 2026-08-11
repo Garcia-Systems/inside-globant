@@ -1,4 +1,6 @@
-# 37 — Land, Expand, and Grow the Account
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 37 — Land, Expand, and Grow the Account
 
 “Land and expand” is used here as a **general industry model**, not a claimed Globant program.
 
@@ -26,3 +28,7 @@ Growth can become unhealthy if a provider manufactures work, protects legacy cho
 1. What evidence from delivery is reusable in a second buying decision?
 2. When is cross-selling customer service, and when is it scope seeking?
 3. Why should every expansion be requalified?
+
+---
+
+[Previous Chapter](36-partnerships-as-a-route-to-market.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](38-when-sales-becomes-delivery.md)

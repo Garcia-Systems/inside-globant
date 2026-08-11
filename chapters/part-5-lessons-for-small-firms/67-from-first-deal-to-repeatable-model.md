@@ -1,4 +1,6 @@
-# 67 — From First Deal to Repeatable Model
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 67 — From First Deal to Repeatable Model
 
 ```text
 FIRST CUSTOMER → DELIVERY → RESULT → PERMISSIONED CASE → REFERENCE
@@ -28,3 +30,13 @@ Failure compounds too. A poorly delivered first deal can cost the customer, dama
 Sales cannot compensate for weak delivery; delivery cannot compensate for absent access forever. Partner selection, promise quality and delivery quality form one reputation loop. Account expansion should follow demonstrated value and a newly qualified problem—not pressure to monetize sunk acquisition cost.
 
 [Chapter 68](68-the-globant-at-100-people-model.md) assembles the smallest useful commercial system around that loop.
+
+## Questions to Think About
+
+1. Which assumptions in the from first deal to repeatable model model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](66-the-first-deal.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](68-the-globant-at-100-people-model.md)

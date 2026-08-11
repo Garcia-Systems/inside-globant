@@ -1,4 +1,6 @@
-# 54 — The Small Global Engineering Company
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 54 — The Small Global Engineering Company
 
 There is no single “offshore company.” The [World Trade Organization's work on digitally delivered services](https://www.wto.org/english/res_e/booksp_e/dtd2023_e.pdf) treats cross-border digital delivery as a large and growing mode of trade, while the [World Bank's Digital Progress and Trends Report](https://www.worldbank.org/en/publication/digital-progress-and-trends-report) emphasizes uneven participation and skills. These sources justify a global category, not a stereotype about any country or team.
 
@@ -31,3 +33,13 @@ Evaluate the proposed operating system:
 6. **market access** — how the firm earns a credible first conversation.
 
 Region affects constraints and options. It does not predetermine quality. [Chapter 55](55-what-small-firms-can-copy.md) extracts practices that travel across these categories.
+
+## Questions to Think About
+
+1. Which assumptions in the the small global engineering company model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](53-shrinking-the-globant-model.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](55-what-small-firms-can-copy.md)

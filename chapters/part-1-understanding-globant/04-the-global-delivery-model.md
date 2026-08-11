@@ -1,4 +1,6 @@
-# 4 — The Global Delivery Model
+[Inside Globant](../../README.md) · [Part I — Understanding the Globant Machine](README.md)
+
+# Chapter 4 — The Global Delivery Model
 
 A global delivery model separates where demand is understood from where some or all work is performed. Globant's FY2024 filing describes operations and clients across multiple countries and emphasizes a global, diverse talent base; its locations page provides the current public directory ([FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude), [locations](https://www.globant.com/contact)). Because offices can serve sales, administration, delivery, or mixtures, an address alone does not prove a delivery center's role.
 
@@ -61,3 +63,7 @@ Nominal compensation differences are only one component. Rework caused by missin
 2. What information is most likely to be lost between a client-facing team and a remote engineering team?
 3. Why is an office list an inadequate delivery map?
 4. How could a customer test whether “global talent” is operational capability rather than sales language?
+
+---
+
+[Previous Chapter](03-why-companies-hire-globant.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](05-the-studio-and-specialization-model.md)

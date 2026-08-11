@@ -1,4 +1,6 @@
-# 66 — The First Deal
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 66 — The First Deal
 
 > **HYPOTHETICAL COMPOSITE. No company, price, process, or outcome below is claimed as Globant fact or a prediction.**
 
@@ -30,3 +32,13 @@ Two weeks into delivery, real data contains an undocumented identifier collision
 The deal can still fail: procurement may reject the entity, a reference may disappoint, discovery may reveal poor fit, competitors may be stronger, or delivery may miss. The lesson is the labor between introduction and outcome—qualification, evidence, translation, controlled commitments and recovery—not that cross-border deals are easy.
 
 The expanded table appears in [Deal Anatomy](../../appendix/deal-anatomy.md). [Chapter 67](67-from-first-deal-to-repeatable-model.md) asks when this becomes a system.
+
+## Questions to Think About
+
+1. Which assumptions in the the first deal model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](65-choosing-the-right-us-opportunity.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](67-from-first-deal-to-repeatable-model.md)

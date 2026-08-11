@@ -1,4 +1,6 @@
-# 56 — What Small Firms Cannot Copy
+[Inside Globant](../../README.md) · [Part V — From Globant to the Small Global Engineering Firm](README.md)
+
+# Chapter 56 — What Small Firms Cannot Copy
 
 Globant's scale is factual, although the value of each advantage in a particular pursuit is contextual. Its FY2024 [Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude) documents global operations, acquisitions, large-client relationships, financial resources and enterprise risks. A 25- or 100-person firm cannot honestly simulate that resilience.
 
@@ -22,3 +24,13 @@ The strategic error is **scale cosplay**: publishing every fashionable capabilit
 Scale also changes economics. Enterprise diligence and proposals can cost the same whether a provider has 50 or 50,000 people, but the smaller firm spreads that fixed cost over fewer opportunities. It should therefore qualify harder, reuse truthful diligence materials, and choose deals where distinct expertise offsets buyer concern.
 
 That concern begins with market access, examined in [Chapter 57](57-the-us-market-gap.md).
+
+## Questions to Think About
+
+1. Which assumptions in the what small firms cannot copy model would need evidence before a smaller firm acted on it?
+2. Which capability should remain accountable inside the engineering firm, even if some work is external?
+3. What customer evidence would show that this approach is reducing risk rather than merely adding activity?
+
+---
+
+[Previous Chapter](55-what-small-firms-can-copy.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](57-the-us-market-gap.md)

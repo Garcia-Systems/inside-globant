@@ -1,4 +1,6 @@
-# 3 — Why Companies Hire Globant
+[Inside Globant](../../README.md) · [Part I — Understanding the Globant Machine](README.md)
+
+# Chapter 3 — Why Companies Hire Globant
 
 The build-or-buy question is not “Are employees cheaper than consultants?” A useful comparison includes recruiting time, scarce expertise, management capacity, uncertainty, speed, reversibility, integration risk, and responsibility for a changing program.
 
@@ -52,3 +54,7 @@ Contract language reallocates some consequences but does not make a failed progr
 2. How can a buyer measure speed without rewarding premature output?
 3. When does elastic capacity become damaging dependency?
 4. What would you request from a case study before accepting its explanation of customer motivation?
+
+---
+
+[Previous Chapter](02-what-globant-actually-sells.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](04-the-global-delivery-model.md)

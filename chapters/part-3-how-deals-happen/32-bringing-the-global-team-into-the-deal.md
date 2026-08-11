@@ -1,4 +1,6 @@
-# 32 — Bringing the Global Team into the Deal
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 32 — Bringing the Global Team into the Deal
 
 A global footprint is a capability only when the right people can responsibly perform the sold work. Globant's filing documents a distributed workforce and locations, while [Part I](../part-1-understanding-globant/04-the-global-delivery-model.md) explains the possibilities and coordination costs ([FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude)). An office pin does not prove available capacity.
 
@@ -35,3 +37,7 @@ The distinction matters. “We employ cloud engineers” is company-level eviden
 1. Which location choice is a business requirement rather than a labor-cost choice?
 2. How much staffing certainty is possible before signature?
 3. What should a proposal say when named people cannot be guaranteed?
+
+---
+
+[Previous Chapter](31-solution-architecture-and-specialists.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](33-scoping-estimation-and-feasibility.md)

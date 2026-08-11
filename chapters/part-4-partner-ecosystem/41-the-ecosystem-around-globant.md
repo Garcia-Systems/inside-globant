@@ -1,4 +1,6 @@
-# 41 — The Ecosystem Around Globant
+[Inside Globant](../../README.md) · [Part IV — The Partner Ecosystem](README.md) · [Partner Index](../../appendix/partner-index.md)
+
+# Chapter 41 — The Ecosystem Around Globant
 
 Parts I–III followed Globant from capabilities to customers and then through the commercial–technical–delivery chain. That chain is incomplete unless it includes the technology on which much delivery depends. Globant creates software and some products of its own, but it does not manufacture AWS regions, Microsoft Azure, Google Cloud, Salesforce, or NVIDIA processors.
 
@@ -53,3 +55,7 @@ Globant publicly documents relationships with AWS, Google Cloud, Microsoft, Sale
 1. Which party is accountable when the product works as designed but the business process fails?
 2. When does vendor accreditation reduce uncertainty, and when can it create platform bias?
 3. Which economic facts would be needed to distinguish a technical alliance from a meaningful route to market?
+
+---
+
+[Previous Chapter](../part-3-how-deals-happen/40-what-part-iii-teaches-us.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](42-aws.md)

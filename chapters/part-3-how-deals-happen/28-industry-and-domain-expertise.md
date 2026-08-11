@@ -1,4 +1,6 @@
-# 28 — Industry and Domain Expertise
+[Inside Globant](../../README.md) · [Part III — How Deals Happen](README.md)
+
+# Chapter 28 — Industry and Domain Expertise
 
 “What software should we build?” is not the same question as “What business problem should we solve?” Globant publicly goes to market by industries as well as technology capabilities. Its current directory includes sectors such as banking/financial services, media and entertainment, gaming, healthcare, automotive, sports and manufacturing, although names evolve ([Industries](https://www.globant.com/industries)).
 
@@ -24,3 +26,7 @@ Domain expertise has limits. Familiarity can produce shortcuts and false analogy
 1. Which domain facts change architecture rather than merely vocabulary?
 2. How can an expert avoid assuming the current customer resembles the last one?
 3. When should industry expertise lead discovery?
+
+---
+
+[Previous Chapter](27-client-partners-and-account-leadership.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](29-discovery.md)

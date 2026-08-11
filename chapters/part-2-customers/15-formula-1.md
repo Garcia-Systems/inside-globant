@@ -1,4 +1,6 @@
-# 15 — Formula 1: A Digital Product Mandate Around a Global Sport
+[Inside Globant](../../README.md) · [Part II — Follow the Customers](README.md) · [Customer Index](../../appendix/customer-index.md)
+
+# Chapter 15 — Formula 1: A Digital Product Mandate Around a Global Sport
 
 Formula 1 is simultaneously a competition, media property, event business, licensing platform, and global fan brand. Its digital surfaces must serve existing followers, explain a complex sport to new audiences, carry content across a season, and withstand attention peaks. In September 2024 Formula 1 named Globant an Official Partner in a multiyear relationship focused on digital experiences ([Formula 1 announcement](https://www.formula1.com/en/latest/article/formula-1-announces-globant-as-an-official-partner-to-drive-digital.4pUzE5QpdthT1DRdqS1Dlw), [Globant announcement](https://www.globant.com/news/formula-1-and-globant-announce-multi-year-partnership)).
 
@@ -44,3 +46,7 @@ This case also shows why the word “customer” can underdescribe a relationshi
 2. How should an analyst separate sponsorship value from delivery value in a combined partnership?
 3. Which measures would distinguish fan attention from durable product value?
 4. What changes when a digital journey must connect with a live physical event?
+
+---
+
+[Previous Chapter](14-santander.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](16-la-clippers-and-intuit-dome.md)

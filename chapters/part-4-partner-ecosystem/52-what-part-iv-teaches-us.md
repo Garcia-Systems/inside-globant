@@ -1,4 +1,6 @@
-# 52 — What Part IV Teaches Us
+[Inside Globant](../../README.md) · [Part IV — The Partner Ecosystem](README.md) · [Partner Index](../../appendix/partner-index.md)
+
+# Chapter 52 — What Part IV Teaches Us
 
 The global technology-services market is not simply **customer → developers**. The evidence and models in this Part support a richer explanation:
 
@@ -59,3 +61,7 @@ Part IV does not answer it. [Part V](../part-5-lessons-for-small-firms/53-shrink
 1. Which ecosystem capability depends on scale and which depends only on focus?
 2. Can a small specialist become more credible through depth in one platform without becoming captive to it?
 3. Who supplies discovery, architecture, and local trust when the delivery firm does not yet have them?
+
+---
+
+[Previous Chapter](51-the-three-party-enterprise-deal.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](../part-5-lessons-for-small-firms/53-shrinking-the-globant-model.md)

@@ -1,4 +1,6 @@
-# 19 — Additional Customer Patterns
+[Inside Globant](../../README.md) · [Part II — Follow the Customers](README.md) · [Customer Index](../../appendix/customer-index.md)
+
+# Chapter 19 — Additional Customer Patterns
 
 The cases below widen the sample without pretending that eight short summaries equal eight complete engagements. Inclusion requires first-party customer, joint, filing, or Globant case evidence. “Outcome” distinguishes a reported result from an announced aim.
 
@@ -42,3 +44,7 @@ The sample contains product creation, journey redesign, integration, platform mo
 2. Why does customer experience repeatedly create backend integration work?
 3. What selection bias is introduced by relying on published customer stories?
 4. Which additional source would most improve the weakest row?
+
+---
+
+[Previous Chapter](18-rockwell-automation.md) | [Table of Contents](../../CONTENTS.md) | [Next Chapter](20-what-customers-actually-buy.md)
