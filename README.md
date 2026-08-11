@@ -11,7 +11,7 @@ Globant is unusually useful for studying that question. It began in Argentina, b
 
 ## What the book tries to explain
 
-Part I asks what Globant sells and how its delivery machine works. Part II reverses the lens: documented customer relationships show what was built, what value was sought, and what public evidence still cannot tell us about winning the work. Later parts will investigate how deals happen, study partners, and derive bounded lessons for smaller firms.
+Part I asks what Globant sells and how its delivery machine works. Part II reverses the lens: documented customer relationships show what was built, what value was sought, and what public evidence still cannot tell us about winning the work. Part III investigates how deals happen. Part IV studies technology partners. The final part will derive bounded lessons for smaller firms.
 
 The recurring mechanism is:
 
@@ -39,10 +39,10 @@ Customer stories are evidence that a relationship and described work were public
 1. **[Understanding the Globant Machine](chapters/part-1-understanding-globant/00-the-globant-question.md)** — completed here: history, offer, demand, delivery, Studios, customers, economics, the United States, and a bounded end-to-end model.
 2. **[Follow the Customers](chapters/part-2-customers/11-follow-the-customers.md)** — customer-by-customer reconstructions and a synthesis of what buyers actually purchase.
 3. **[How Deals Happen](chapters/part-3-how-deals-happen/23-the-commercial-engine.md)** — evidence-bounded investigation of relationships, discovery, solution definition, commercials, governance, and expansion.
-4. **The Partner Ecosystem** — future study of cloud, platform, and other partners in opportunity creation and delivery.
+4. **[The Partner Ecosystem](chapters/part-4-partner-ecosystem/41-the-ecosystem-around-globant.md)** — verified cloud, enterprise-platform, and AI relationships; platform/services economics; routes to market; credentials; and a three-party deal model.
 5. **Lessons for Small Firms** — future synthesis for firms pursuing cross-border, customer-facing technical work without pretending Globant's scale can be copied wholesale.
 
-Parts I–III are written in this release. The empty Part IV–V directories are intentional placeholders, not missing chapters.
+Parts I–IV are written in this release. Part V remains a planned synthesis introduced by Chapter 52 and the research questions recorded for smaller firms.
 
 ## How to read
 

@@ -1,0 +1,25 @@
+# Partner Index
+
+**Verification date:** 2026-08-11. This is an evidence index, not a ranking or exhaustive directory. “Current” means an official page or vendor directory was identified at review time; directory status and program labels can change. A relationship does not prove referrals, revenue sharing, or participation in every implementation.
+
+| Partner | Category | Relationship type | Globant capabilities involved | Joint offering if documented | Customer example | Evidence | Source | Last verified |
+|---|---|---|---|---|---|---|---|---|
+| AWS | Hyperscale cloud / AI | APN relationship; strategic collaboration announcement | Migration, modernization, cloud-native, data, AI | Multi-year collaboration described by parties | No joint case relied upon in this edition | Vendor profile + Globant announcement | [AWS profile](https://partners.amazonaws.com/partners/0010h00001h3VppAAE/Globant); [Globant](https://www.globant.com/news/globant-and-aws-expand-collaboration) | 2026-08-11 |
+| Google Cloud | Hyperscale cloud / data / AI | Expanded partnership; partner directory | Cloud, data, AI; dedicated capability described | Expanded collaboration | Customer relationship with Google is treated separately | Globant announcement + vendor directory | [Globant](https://www.globant.com/news/globant-expands-partnership-google-cloud); [Google Cloud](https://cloud.google.com/find-a-partner/partner/globant) | 2026-08-11 |
+| Microsoft | Cloud / enterprise / AI | Global AI collaboration | Azure, AI, data and enterprise transformation where documented | AI-transformation collaboration | None required for relationship claim | Two-party announcements/pages | [Microsoft](https://news.microsoft.com/source/2024/06/27/globant-and-microsoft-announce-collaboration-to-accelerate-ai-transformation/); [Globant](https://www.globant.com/partners/microsoft) | 2026-08-11 |
+| Salesforce | CRM / enterprise platform | Specialist capability via CloudShift acquisition | CRM, experience, workflow, integration and data | Not asserted | CloudShift acquisition is capability evidence, not a customer case | Dated Globant acquisition announcement | [Globant](https://www.globant.com/news/globant-acquires-cloudshift) | 2026-08-11 |
+| NVIDIA | Accelerated computing / AI | Partner ecosystem relationship | Enterprise AI and accelerated computing | Alliance capability described | None relied upon | Vendor locator + Globant page | [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/partners/partner-locator/); [Globant](https://www.globant.com/partners/nvidia) | 2026-08-11 |
+| OpenAI | AI models / platform | Strategic services collaboration | Enterprise use cases, applications, integration and adoption | Enterprise AI adoption collaboration | None relied upon | Two-party announcement | [OpenAI](https://openai.com/index/globant-collaboration/); [Globant](https://www.globant.com/news/globant-and-openai-announce-strategic-collaboration) | 2026-08-11 |
+| Adobe | Digital experience | Solution/implementation ecosystem | Content, commerce, experience and integration | Not asserted | None relied upon | Globant page + vendor directory path | [Globant](https://www.globant.com/partners/adobe); [Adobe](https://solutionpartners.adobe.com/s/directory) | 2026-08-11 |
+| SAP | Enterprise applications | Technology-services ecosystem | ERP/process, migration, data and integration | Not asserted | None relied upon | Globant page + vendor finder path | [Globant](https://www.globant.com/partners/sap); [SAP](https://www.sap.com/partners/find.html) | 2026-08-11 |
+| Oracle | Cloud / database / enterprise apps | Technology-services ecosystem | Modernization, data and integration | Not asserted | None relied upon | Globant page + vendor finder path | [Globant](https://www.globant.com/partners/oracle); [Oracle](https://partner-finder.oracle.com/) | 2026-08-11 |
+| ServiceNow | Enterprise workflow | Implementation ecosystem | Workflow, configuration, integration and operations | Not asserted | None relied upon | Globant page + vendor finder path | [Globant](https://www.globant.com/partners/servicenow); [ServiceNow](https://www.servicenow.com/partners/partner-finder.html) | 2026-08-11 |
+| Atlassian | Developer / work management | Solution ecosystem | Toolchain, service management and team workflows | Not asserted | None relied upon | Globant page + vendor directory path | [Globant](https://www.globant.com/partners/atlassian); [Atlassian](https://partnerdirectory.atlassian.com/) | 2026-08-11 |
+| commercetools | Composable commerce | Technology/implementation ecosystem | Commerce architecture and integration | Not asserted | None relied upon | Vendor partner directory path | [commercetools](https://commercetools.com/partners) | 2026-08-11 |
+
+## Reading rules
+
+1. Recheck live directories and dated program criteria before procurement.
+2. Do not infer current tier from an old announcement.
+3. Do not infer a joint sale from a joint capability.
+4. Ask for the proposed team's current credentials and relevant customer references.
