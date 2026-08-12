@@ -1,0 +1,4 @@
+# Generated print edition
+dist/
+__pycache__/
+*.py[cod]

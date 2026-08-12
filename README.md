@@ -12,6 +12,16 @@ It investigates how distributed engineering capability becomes customer relation
 - **[Preface](PREFACE.md)** — begin the book in sequence.
 - **[Full Contents](CONTENTS.md)** — browse all 70 chapters and appendices.
 
+## Print Edition
+
+Build the complete US Letter PDF edition with one command:
+
+```sh
+./scripts/build-pdf.sh
+```
+
+The generated book is written to `dist/inside-globant.pdf`. See the [PDF build guide](docs/PDF_BUILD.md) for requirements, source ordering, and validation details.
+
 ## What This Book Investigates
 
 The book follows one question: how does a global technology-services company connect a customer's business problem to engineering talent distributed across countries? Globant provides the case. Its public filings, customer accounts, partner materials, and other public sources reveal much about the company while leaving confidential negotiations and internal processes appropriately unknown.
