@@ -2,6 +2,8 @@
 
 # Chapter 67 — From First Deal to Repeatable Model
 
+![From First Deal to Repeatable Model](../../images/chapters/chapter-67-from-first-deal-to-repeatable-model.png)
+
 ```text
 FIRST CUSTOMER → DELIVERY → RESULT → PERMISSIONED CASE → REFERENCE
       → CREDIBILITY → SECOND QUALIFIED CUSTOMER → LARGER PIPELINE

@@ -2,6 +2,8 @@
 
 # Chapter 58 — The Trust Gap
 
+![The Trust Gap](../../images/chapters/chapter-58-the-trust-gap.png)
+
 **Trust is commercial infrastructure:** accumulated evidence that lets a buyer accept dependency under uncertainty. It is not friendliness, and it cannot eliminate project risk.
 
 The [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework) and [NIST Secure Software Development Framework](https://csrc.nist.gov/Projects/ssdf) provide recognized risk and software-practice vocabularies; [AICPA's SOC information](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2) explains an assurance framework. A certification or report covers a defined scope and period. It is not a universal quality seal, and a small provider should not pursue credentials merely as decoration.

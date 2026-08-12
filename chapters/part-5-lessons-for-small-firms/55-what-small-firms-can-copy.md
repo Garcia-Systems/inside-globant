@@ -2,6 +2,8 @@
 
 # Chapter 55 — What Small Firms Can Copy
 
+![What Small Firms Can Copy](../../images/chapters/chapter-55-what-small-firms-can-copy.png)
+
 The portable lessons are principles, not Globant's headcount, brand, or Studio names. Globant's public [services, Studios, and industries](https://www.globant.com/) make specialization and customer context legible; its filing describes long client relationships and multiple contract forms. A smaller firm can reproduce clarity and discipline without reproducing breadth.
 
 | At Globant scale | Underlying principle | At 100 people | At 25 people |

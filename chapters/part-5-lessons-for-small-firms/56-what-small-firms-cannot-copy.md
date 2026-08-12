@@ -2,6 +2,8 @@
 
 # Chapter 56 — What Small Firms Cannot Copy
 
+![What Small Firms Cannot Copy](../../images/chapters/chapter-56-what-small-firms-cannot-copy.png)
+
 Globant's scale is factual, although the value of each advantage in a particular pursuit is contextual. Its FY2024 [Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude) documents global operations, acquisitions, large-client relationships, financial resources and enterprise risks. A 25- or 100-person firm cannot honestly simulate that resilience.
 
 | Scale advantage | Why direct imitation fails | Smaller strategic substitute |

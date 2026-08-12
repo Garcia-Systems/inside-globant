@@ -2,6 +2,8 @@
 
 # Chapter 51 — The Three-Party Enterprise Deal
 
+![The Three-Party Enterprise Deal](../../images/chapters/chapter-51-the-three-party-enterprise-deal.png)
+
 > **HYPOTHETICAL — NOT A GLOBANT CUSTOMER CASE.** The scenario combines the general industry mechanics and public capability categories discussed in this Part. It does not claim that Globant, a vendor, or a customer follows this exact process.
 
 A U.S. enterprise wants to modernize customer-service intake. It is considering a major cloud/AI platform and Globant as consulting and implementation provider. The customer wants safer, faster resolution; the vendor wants appropriate platform adoption; Globant wants a feasible services engagement and successful delivery.

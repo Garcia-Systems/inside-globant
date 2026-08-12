@@ -2,6 +2,8 @@
 
 # Chapter 35 — Enterprise Buying and Procurement
 
+![Enterprise Buying and Procurement](../../images/chapters/chapter-35-enterprise-buying-and-procurement.png)
+
 “We like the solution” does not mean “we have a deal.” A sponsor's preference must pass through an enterprise decision system.
 
 Globant's filing describes written agreements, confidentiality, data/cybersecurity, legal and regulatory exposure, insurance and revenue-recognition judgments ([FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude)). This proves that commercial infrastructure and contractual obligations matter. It does not expose a customer's procurement sequence.

@@ -2,6 +2,8 @@
 
 # Chapter 45 — Salesforce and Enterprise Platforms
 
+![Salesforce and Enterprise Platforms](../../images/chapters/chapter-45-salesforce-and-enterprise-platforms.png)
+
 Salesforce is the primary case because Globant's capability is documented through an acquisition rather than inferred from a partner logo. In 2021 Globant announced its [acquisition of CloudShift](https://www.globant.com/news/globant-acquires-cloudshift), describing CloudShift as a Salesforce partner and explaining that the acquisition would strengthen Globant's Salesforce capabilities and UK presence. That is **DOCUMENTED FACT** about the transaction and stated rationale. Current tier, headcount, pipeline, and realized acquisition synergies require current evidence and are not assumed.
 
 ## Buying a platform can create work

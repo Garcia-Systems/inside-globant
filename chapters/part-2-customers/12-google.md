@@ -2,6 +2,8 @@
 
 # Chapter 12 — Google: Customer, Partner, or Both?
 
+![Google: Customer, Partner, or Both?](../../images/chapters/chapter-12-google-customer-partner-or-both.png)
+
 Google is important precisely because the public record is easy to overread. Globant's corporate history identifies Google as an early client, and its FY2024 filing names Google among customers served. Separately, Globant and Google Cloud maintain a technology-ecosystem relationship. Those propositions can both be true; they are not interchangeable ([Globant About](https://www.globant.com/about), [FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude), [Google Cloud partner expansion](https://www.globant.com/news/globant-expands-partnership-google-cloud)).
 
 ## What is documented

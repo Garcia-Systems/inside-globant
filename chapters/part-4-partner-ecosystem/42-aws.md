@@ -2,6 +2,8 @@
 
 # Chapter 42 — AWS
 
+![AWS](../../images/chapters/chapter-42-aws.png)
+
 AWS is the clearest example of infrastructure creating an adjacent services market. AWS supplies cloud services; a customer still has to assess applications, design a landing zone, move data and workloads, rewrite or retire systems, establish security and cost controls, and change operations.
 
 ## What the public record supports

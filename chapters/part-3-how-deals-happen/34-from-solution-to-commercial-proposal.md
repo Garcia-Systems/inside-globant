@@ -2,6 +2,8 @@
 
 # Chapter 34 — From Solution to Commercial Proposal
 
+![From Solution to Commercial Proposal](../../images/chapters/chapter-34-from-solution-to-commercial-proposal.png)
+
 A technical solution becomes purchasable only when it becomes a set of commitments:
 
 ```text

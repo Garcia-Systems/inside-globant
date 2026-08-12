@@ -2,6 +2,8 @@
 
 # Chapter 26 — Business Development
 
+![Business Development](../../images/chapters/chapter-26-business-development.png)
+
 Business development in professional services should not automatically be read as SaaS sales-development work. A service is shaped around a customer's situation; opportunity creation therefore may require account research, industry fluency, relationship building and orchestration of experts before anything standard can be quoted.
 
 Globant's careers site has publicly used commercial titles including **Business Development Manager** and **Business Development Executive**. Recent and historical postings change or disappear, so the [careers search](https://career.globant.com/) is evidence of a title only when the dated posting is preserved. The postings reviewed for this edition described combinations of opening or growing accounts, building executive relationships, understanding client needs, developing opportunities and coordinating internal capability. They do not establish one worldwide job design, quota, reporting line or authority.

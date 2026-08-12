@@ -2,6 +2,8 @@
 
 # Chapter 62 — The Independent Sales Engineering Model
 
+![The Independent Sales Engineering Model](../../images/chapters/chapter-62-the-independent-sales-engineering-model.png)
+
 Could an independent technical/commercial professional connect an overseas engineering firm with U.S. demand? Yes, structurally—but the label hides materially different arrangements, and public evidence does not establish one universal best model.
 
 ## Possible structures

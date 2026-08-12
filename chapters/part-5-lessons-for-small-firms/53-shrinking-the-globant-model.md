@@ -2,6 +2,8 @@
 
 # Chapter 53 — Shrinking the Globant Model
 
+![Shrinking the Globant Model](../../images/chapters/chapter-53-shrinking-the-globant-model.png)
+
 Part IV ended with a buyer, a services company, and technology vendors around one solution. Shrinking Globant therefore means shrinking a **system of capabilities**, not copying its organization chart. Globant's FY2024 filing documents a large workforce, broad client base, global operations, sales and marketing expense, and delivery and concentration risks; its [services](https://www.globant.com/services), [Studios](https://www.globant.com/studios), and [industries](https://www.globant.com/industries) pages show the breadth it presents to buyers. None says a small firm needs every capability in-house.
 
 ## Capability matrix

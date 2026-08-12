@@ -2,6 +2,8 @@
 
 # Chapter 40 — What Part III Teaches Us
 
+![What Part III Teaches Us](../../images/chapters/chapter-40-what-part-iii-teaches-us.png)
+
 Engineering capability becomes revenue only through a chain of customer permission and provider commitment. Market presence creates consideration; relationships create access; business development finds and develops relevant demand; account leadership preserves context; industry expertise identifies business meaning; consulting and technical specialists define options; delivery leadership tests feasibility; commercial/legal infrastructure makes commitments buyable; delivery creates the evidence for trust and possible repeat work.
 
 No reviewed source establishes one Globant funnel or a single role that owns this chain. The strongest evidence is architectural: Globant publicly has clients, commercial expense, industries, Studios, global delivery, consulting/engineering services, contracts, partner relationships and long-lived accounts ([FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude), [Services](https://www.globant.com/services), [Industries](https://www.globant.com/industries), [Studios](https://www.globant.com/studios)). Public roles add evidence of customer, commercial and technical functions, but not a universal organization chart.

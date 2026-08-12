@@ -2,6 +2,8 @@
 
 # Chapter 20 — What Customers Actually Buy
 
+![What Customers Actually Buy](../../images/chapters/chapter-20-what-customers-actually-buy.png)
+
 No customer orders “transformation” for its own sake. The cases suggest six more concrete purchases. The categories overlap because enterprise work is assembled, not boxed.
 
 | Purchase | What the customer receives | People and technical capability | Sought business value | Case signal |

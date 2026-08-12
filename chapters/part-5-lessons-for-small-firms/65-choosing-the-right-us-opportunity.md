@@ -2,6 +2,8 @@
 
 # Chapter 65 — Choosing the Right U.S. Opportunity
 
+![Choosing the Right U.S. Opportunity](../../images/chapters/chapter-65-choosing-the-right-us-opportunity.png)
+
 A company is an account. An opportunity is evidence of a decision-worthy change.
 
 ```text

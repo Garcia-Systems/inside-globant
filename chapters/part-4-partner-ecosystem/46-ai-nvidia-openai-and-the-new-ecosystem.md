@@ -2,6 +2,8 @@
 
 # Chapter 46 — AI: NVIDIA, OpenAI, and the New Ecosystem
 
+![AI: NVIDIA, OpenAI, and the New Ecosystem](../../images/chapters/chapter-46-ai-nvidia-openai-and-the-new-ecosystem.png)
+
 AI makes the product–services distinction especially visible. A model endpoint, accelerator, or managed AI service can be obtained quickly. A safe, useful production system still requires choices and work around it.
 
 ## Verify the relationships, not the fashionable names

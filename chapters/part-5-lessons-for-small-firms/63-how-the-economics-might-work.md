@@ -2,6 +2,8 @@
 
 # Chapter 63 — How the Economics Might Work
 
+![How the Economics Might Work](../../images/chapters/chapter-63-how-the-economics-might-work.png)
+
 > **GENERAL INDUSTRY MODELS AND HYPOTHETICAL NUMBERS—NOT GLOBANT COMPENSATION OR MARGINS.** Agreements require accounting, tax and legal advice.
 
 Possible payments include salary, commission, referral fee, revenue share, retainer, consulting fee/day rate, project margin, or a hybrid. Each pays for a different risk and behavior.

@@ -2,6 +2,8 @@
 
 # Chapter 30 — The Technical–Commercial Bridge
 
+![The Technical–Commercial Bridge](../../images/chapters/chapter-30-the-technical-commercial-bridge.png)
+
 The most commercially valuable technical function may be translation with consequences.
 
 ```text

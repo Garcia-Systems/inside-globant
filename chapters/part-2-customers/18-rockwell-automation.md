@@ -2,6 +2,8 @@
 
 # Chapter 18 — Rockwell Automation: Digital Engineering for an Industrial Technology Company
 
+![Rockwell Automation: Digital Engineering for an Industrial Technology Company](../../images/chapters/chapter-18-rockwell-automation-digital-engineering-for-an-industrial-technology-company.png)
+
 Rockwell Automation sells industrial automation and digital-transformation technology. It is itself an engineering company whose products operate in production environments. Globant and Rockwell have publicly announced a relationship, and Globant presents Rockwell customer material ([Rockwell Automation newsroom](https://www.rockwellautomation.com/en-us/company/news.html), [Globant customers](https://www.globant.com/customers)). The public detail is thinner and more provider-led than the Formula 1 case, so this chapter does not fabricate a factory implementation.
 
 ## The industrial context

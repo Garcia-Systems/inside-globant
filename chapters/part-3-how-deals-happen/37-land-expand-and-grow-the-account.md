@@ -2,6 +2,8 @@
 
 # Chapter 37 — Land, Expand, and Grow the Account
 
+![Land, Expand, and Grow the Account](../../images/chapters/chapter-37-land-expand-and-grow-the-account.png)
+
 “Land and expand” is used here as a **general industry model**, not a claimed Globant program.
 
 ```text

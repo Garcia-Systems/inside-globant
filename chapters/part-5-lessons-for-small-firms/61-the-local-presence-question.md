@@ -2,6 +2,8 @@
 
 # Chapter 61 — The Local Presence Question
 
+![The Local Presence Question](../../images/chapters/chapter-61-the-local-presence-question.png)
+
 A U.S. address is neither necessary for every deal nor sufficient for trust. “Local presence” bundles distinct benefits that should be tested separately.
 
 | Needed benefit | Possible mechanism besides an office |

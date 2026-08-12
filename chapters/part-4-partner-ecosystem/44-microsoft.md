@@ -2,6 +2,8 @@
 
 # Chapter 44 — Microsoft
 
+![Microsoft](../../images/chapters/chapter-44-microsoft.png)
+
 Microsoft's enterprise footprint makes it an important ecosystem, but size alone does not establish Globant scope. The relevant evidence points to cloud and AI collaboration; it does not justify claiming expertise in every Microsoft product.
 
 ## What is documented

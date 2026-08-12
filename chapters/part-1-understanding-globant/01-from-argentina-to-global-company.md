@@ -2,6 +2,8 @@
 
 # Chapter 1 — From Argentina to Global Company
 
+![From Argentina to Global Company](../../images/chapters/chapter-1-from-argentina-to-global-company.png)
+
 Globant was founded in Buenos Aires in 2003 by Martín Migoya, Guibert Englebienne, Martín Umaran, and Néstor Nocetti. Its own history describes an ambition to build from Latin America for global customers; its 2014 initial public offering made it the first Latin American software company to list on the NYSE, according to Globant ([company history](https://www.globant.com/about), [2014 IPO announcement](https://investors.globant.com/news-releases)).
 
 The significant point is not national pride or a founder story. It is an early economic design: reach demand in larger overseas markets while organizing scarce digital engineering capability in Latin America. Geography could offer talent, cultural affinity, and overlapping hours with North America. It also imposed constraints—distance from buyers, a lesser-known brand, cross-border contracting, travel, and the need to understand industries and executive priorities.

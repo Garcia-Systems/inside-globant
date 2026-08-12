@@ -2,6 +2,8 @@
 
 # Chapter 32 — Bringing the Global Team into the Deal
 
+![Bringing the Global Team into the Deal](../../images/chapters/chapter-32-bringing-the-global-team-into-the-deal.png)
+
 A global footprint is a capability only when the right people can responsibly perform the sold work. Globant's filing documents a distributed workforce and locations, while [Part I](../part-1-understanding-globant/04-the-global-delivery-model.md) explains the possibilities and coordination costs ([FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude)). An office pin does not prove available capacity.
 
 Before commitment, somebody must eventually answer:

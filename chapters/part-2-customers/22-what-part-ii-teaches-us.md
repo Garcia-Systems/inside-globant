@@ -2,6 +2,8 @@
 
 # Chapter 22 — What Part II Teaches Us
 
+![What Part II Teaches Us](../../images/chapters/chapter-22-what-part-ii-teaches-us.png)
+
 The customer lens replaces a service catalogue with a chain of consequences.
 
 ```text

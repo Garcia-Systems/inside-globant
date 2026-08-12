@@ -2,6 +2,8 @@
 
 # Chapter 28 — Industry and Domain Expertise
 
+![Industry and Domain Expertise](../../images/chapters/chapter-28-industry-and-domain-expertise.png)
+
 “What software should we build?” is not the same question as “What business problem should we solve?” Globant publicly goes to market by industries as well as technology capabilities. Its current directory includes sectors such as banking/financial services, media and entertainment, gaming, healthcare, automotive, sports and manufacturing, although names evolve ([Industries](https://www.globant.com/industries)).
 
 Part II makes the reason concrete. A bank channel touches identity, regulation and transaction controls; an arena joins software with event operations; an automaker works through dealers and markets; industrial systems face availability and long asset lives. The same API pattern can have radically different failure consequences.

@@ -2,6 +2,8 @@
 
 # Chapter 60 — The Technical–Commercial Gap
 
+![The Technical–Commercial Gap](../../images/chapters/chapter-60-the-technical-commercial-gap.png)
+
 Two valid languages meet in a technology engagement:
 
 | Customer world | Engineering world |

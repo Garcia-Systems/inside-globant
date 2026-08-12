@@ -2,6 +2,8 @@
 
 # Chapter 11 — Follow the Customers
 
+![Follow the Customers](../../images/chapters/chapter-11-follow-the-customers.png)
+
 Part I began with Globant's organization. Part II starts somewhere less tidy: inside a customer's business. A bank wants a useful digital channel; a sports property wants fans to remain engaged between events; an automaker must connect marketing, dealers, and software; an industrial supplier must improve products used in factories. The provider's capability matters only insofar as it changes one of those situations.
 
 Customer evidence reveals combinations that an offering page cannot. A service called “digital experience” might mean designing a journey, writing mobile software, connecting identity and payment systems, instrumenting behavior, or operating a release process. A named case can expose some of that chain. It rarely exposes the commercial negotiation.

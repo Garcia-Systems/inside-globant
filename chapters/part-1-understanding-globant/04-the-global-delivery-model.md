@@ -2,6 +2,8 @@
 
 # Chapter 4 — The Global Delivery Model
 
+![The Global Delivery Model](../../images/chapters/chapter-4-the-global-delivery-model.png)
+
 A global delivery model separates where demand is understood from where some or all work is performed. Globant's FY2024 filing describes operations and clients across multiple countries and emphasizes a global, diverse talent base; its locations page provides the current public directory ([FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude), [locations](https://www.globant.com/contact)). Because offices can serve sales, administration, delivery, or mixtures, an address alone does not prove a delivery center's role.
 
 ## Working vocabulary
