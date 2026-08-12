@@ -2,6 +2,8 @@
 
 # Chapter 6 — Industries, Markets, and Customers
 
+![Industries, Markets, and Customers](../../images/chapters/chapter-6-industries-markets-and-customers.png)
+
 Globant's filing discusses customers across media and entertainment, consumer/retail, financial services, travel, technology, professional services, and other sectors. Industry labels matter because the same technology has different constraints: identity at a bank is not identity in a game; demand forecasting in retail is not predictive maintenance in manufacturing ([FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude), [industries](https://www.globant.com/industries)).
 
 The table is a teaching map, not a claim that every listed problem occurred in the named engagement. The customer column is limited to public relationships; follow the sources for the actual described scope.

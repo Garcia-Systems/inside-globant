@@ -2,6 +2,8 @@
 
 # Chapter 16 — LA Clippers and Intuit Dome: Software Meets the Building
 
+![LA Clippers and Intuit Dome: Software Meets the Building](../../images/chapters/chapter-16-la-clippers-and-intuit-dome-software-meets-the-building.png)
+
 Intuit Dome makes a digital engagement unusually tangible. The LA Clippers conceived the arena around a connected fan experience; the organization announced Globant as its digital transformation partner before the venue opened ([LA Clippers announcement](https://www.nba.com/clippers/news/la-clippers-announce-globant-as-digital-transformation-partner), [Intuit Dome](https://www.intuitdome.com/)). Globant's own announcement describes work intended to connect technology and the in-venue journey ([Globant announcement](https://www.globant.com/news/globant-and-la-clippers-announce-digital-transformation-partnership)).
 
 ## The customer context

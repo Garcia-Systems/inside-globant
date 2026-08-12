@@ -2,6 +2,8 @@
 
 # Chapter 14 — Santander: External Engineering Inside a Technology-Intensive Bank
 
+![Santander: External Engineering Inside a Technology-Intensive Bank](../../images/chapters/chapter-14-santander-external-engineering-inside-a-technology-intensive-bank.png)
+
 Santander is not a bank discovering software for the first time. Its public strategy treats technology and digital channels as core capabilities. That makes the interesting question not “why outsource IT?” but why a bank with its own technologists would add an external digital-engineering firm.
 
 Globant publishes a Santander customer story describing work on digital experiences; Santander's corporate materials independently demonstrate the scale and strategic importance of digital banking, but do not validate every Globant case-study detail ([Globant Santander story](https://www.globant.com/customers/santander), [Santander annual reports](https://www.santander.com/en/shareholders-and-investors/financial-and-economic-information/annual-report)). The entity, geography, period, and system boundary must therefore be read exactly as stated on the case page rather than generalized to the entire Santander group.

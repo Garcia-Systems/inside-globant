@@ -2,6 +2,8 @@
 
 # Chapter 33 — Scoping, Estimation, and Feasibility
 
+![Scoping, Estimation, and Feasibility](../../images/chapters/chapter-33-scoping-estimation-and-feasibility.png)
+
 Services sales requires technical estimation because the provider is selling future coordinated work, not an already manufactured unit.
 
 ```text

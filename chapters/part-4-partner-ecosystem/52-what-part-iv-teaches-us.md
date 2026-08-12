@@ -2,6 +2,8 @@
 
 # Chapter 52 — What Part IV Teaches Us
 
+![What Part IV Teaches Us](../../images/chapters/chapter-52-what-part-iv-teaches-us.png)
+
 The global technology-services market is not simply **customer → developers**. The evidence and models in this Part support a richer explanation:
 
 ```text

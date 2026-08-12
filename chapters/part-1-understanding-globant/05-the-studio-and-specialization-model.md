@@ -2,6 +2,8 @@
 
 # Chapter 5 — The Studio and Specialization Model
 
+![The Studio and Specialization Model](../../images/chapters/chapter-5-the-studio-and-specialization-model.png)
+
 Globant uses **Studios** as named areas of expertise. The company describes them as deep pockets of specialization spanning technologies and industries; the roster evolves, so the official directory is the authority for current names ([Globant Studios](https://www.globant.com/studios), [FY2024 Form 20-F, business overview](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude)). A Studio should not be casually equated with a legal entity, profit center, delivery squad, or reporting line: public material does not establish that every Studio has all those properties.
 
 ## The organizational problem Studios address

@@ -2,6 +2,8 @@
 
 # Chapter 57 — The U.S. Market Gap
 
+![The U.S. Market Gap](../../images/chapters/chapter-57-the-us-market-gap.png)
+
 **Technical capability is not market access.** The claim is structural, not national: a provider can be excellent at work it receives while lacking a reliable way to identify demand, earn attention, navigate a buying group, and form a contract.
 
 The [U.S. International Trade Administration](https://www.trade.gov/professional-services) notes that professional-services exporters face market-access and regulatory conditions; the [WTO digitally delivered services report](https://www.wto.org/english/res_e/booksp_e/dtd2023_e.pdf) documents opportunity alongside cross-border frictions. Globant itself reports competition, demand, contracting, talent, data/security, currency and client risks in its [FY2024 filing](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude). Those sources do not prove every smaller exporter encounters the same barrier.

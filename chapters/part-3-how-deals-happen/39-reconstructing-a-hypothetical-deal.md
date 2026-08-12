@@ -2,6 +2,8 @@
 
 # Chapter 39 — Reconstructing a Hypothetical Deal
 
+![Reconstructing a Hypothetical Deal](../../images/chapters/chapter-39-reconstructing-a-hypothetical-deal.png)
+
 > **HYPOTHETICAL — NOT A REAL GLOBANT DEAL.** The scenario synthesizes the functions in Part III. It does not describe Globant's proprietary process, titles, staffing, pricing or any actual customer.
 
 A US multistate manufacturer wants distributors and service technicians to use one digital equipment-service journey. Customer data is fragmented across CRM, ERP, identity and legacy warranty systems. The scenario resembles the integration-intensive work documented in [Part II](../part-2-customers/18-rockwell-automation.md), but all actors and events below are invented.

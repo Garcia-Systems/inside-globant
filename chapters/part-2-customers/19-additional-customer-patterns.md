@@ -2,6 +2,8 @@
 
 # Chapter 19 — Additional Customer Patterns
 
+![Additional Customer Patterns](../../images/chapters/chapter-19-additional-customer-patterns.png)
+
 The cases below widen the sample without pretending that eight short summaries equal eight complete engagements. Inclusion requires first-party customer, joint, filing, or Globant case evidence. “Outcome” distinguishes a reported result from an announced aim.
 
 | Customer | Industry | Problem / opportunity | Globant capability | Solution | Outcome | Relationship evidence | Source |

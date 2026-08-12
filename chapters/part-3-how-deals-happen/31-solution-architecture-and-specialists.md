@@ -2,6 +2,8 @@
 
 # Chapter 31 — Solution Architecture and Specialists
 
+![Solution Architecture and Specialists](../../images/chapters/chapter-31-solution-architecture-and-specialists.png)
+
 An account leader cannot be expected to design every cloud landing zone, data model, game pipeline, bank control and venue integration. Yet bringing ten engineers to the first exploratory meeting can be expensive and confusing. The solution is **progressive technical involvement**.
 
 Globant's Studio model supplies a public capability map across technologies and industries ([Studios](https://www.globant.com/studios)). Customer cases show multidisciplinary surfaces—from Nissan's experience work to the Clippers' connected venue—but do not disclose presales attendance ([Nissan](https://www.globant.com/customers/nissan), [LA Clippers](https://www.nba.com/clippers/news/la-clippers-announce-globant-as-digital-transformation-partner)).

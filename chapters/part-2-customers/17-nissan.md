@@ -2,6 +2,8 @@
 
 # Chapter 17 — Nissan: Building the Journey Between Brand and Vehicle
 
+![Nissan: Building the Journey Between Brand and Vehicle](../../images/chapters/chapter-17-nissan-building-the-journey-between-brand-and-vehicle.png)
+
 An automotive customer journey crosses advertising, research, configuration, finance, dealers, purchase, ownership, service, and sometimes connected-vehicle software. The automaker does not control every system in that chain, yet the customer experiences one brand. Globant's Nissan case study describes digital customer-experience work and reports provider-selected results ([Globant Nissan story](https://www.globant.com/customers/nissan)).
 
 ## What can be established

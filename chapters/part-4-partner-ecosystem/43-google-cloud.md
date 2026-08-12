@@ -2,6 +2,8 @@
 
 # Chapter 43 — Google Cloud
 
+![Google Cloud](../../images/chapters/chapter-43-google-cloud.png)
+
 Google appears in this book in two logically separate positions. Part II examined evidence concerning Google as a Globant customer. Here, Google Cloud is a technology vendor around which Globant supplies capabilities to other customers. Neither relationship proves the other.
 
 ```text

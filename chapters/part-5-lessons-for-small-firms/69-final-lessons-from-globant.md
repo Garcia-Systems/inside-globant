@@ -2,6 +2,8 @@
 
 # Chapter 69 — Final Lessons from Globant
 
+![Final Lessons from Globant](../../images/chapters/chapter-69-final-lessons-from-globant.png)
+
 The book began with a question: **How does a global technology-services company turn distributed engineering capability into valuable engagements with major businesses?**
 
 Globant's public record supports a richer answer than “developers around the world.” Its [FY2024 filing](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude) documents global delivery, large client relationships, contract forms, commercial expense and operating risks. Customer and partner evidence in Parts II and IV documents selected relationships and ecosystem breadth, while leaving private deal choreography, prices, staffing and attribution unknown.

@@ -2,6 +2,8 @@
 
 # Chapter 47 — Other Strategic Technology Partners
 
+![Other Strategic Technology Partners](../../images/chapters/chapter-47-other-strategic-technology-partners.png)
+
 This is a selective comparison, not a logo wall. Partners were included when an official Globant page, acquisition announcement, or vendor-side record provided more than visual association. Relationship descriptions are bounded by those sources and should be reverified when a buying decision depends on current tier or geography.
 
 | Partner | Technology / category | Documented relationship with Globant | Globant capability / potential customer need | Documented example | Source |

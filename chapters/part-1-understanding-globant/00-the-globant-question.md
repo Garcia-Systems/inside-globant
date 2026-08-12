@@ -2,6 +2,8 @@
 
 # Chapter 0 — The Globant Question
 
+![The Globant Question](../../images/chapters/chapter-0-the-globant-question.png)
+
 Calling Globant a “software company” confuses what it produces with how it earns. A product company ordinarily builds one replicable asset and sells access many times. Globant primarily earns by applying people and capabilities to client work. Calling it an “outsourcing company” is also too thin: it suggests that a buyer hands over a fixed specification to cheaper programmers. Globant's regulatory description instead spans strategy, experience, engineering, data and AI, and enterprise platforms, delivered through long-lived client relationships ([Globant FY2024 Form 20-F, pp. 31–40](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude)).
 
 **Documented fact.** Globant is a Luxembourg public limited liability company, trades on the NYSE as GLOB, and reports one operating segment in its Form 20-F. Its origins and much of its delivery heritage are Latin American. Those facts create the case-study puzzle: demand, corporate domicile, client relationships, specialists, and delivery need not occupy the same place.

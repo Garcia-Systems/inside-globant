@@ -2,6 +2,8 @@
 
 # Chapter 3 — Why Companies Hire Globant
 
+![Why Companies Hire Globant](../../images/chapters/chapter-3-why-companies-hire-globant.png)
+
 The build-or-buy question is not “Are employees cheaper than consultants?” A useful comparison includes recruiting time, scarce expertise, management capacity, uncertainty, speed, reversibility, integration risk, and responsibility for a changing program.
 
 ## General professional-services economics

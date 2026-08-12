@@ -2,6 +2,8 @@
 
 # Chapter 64 — Choosing the Right Engineering Partner
 
+![Choosing the Right Engineering Partner](../../images/chapters/chapter-64-choosing-the-right-engineering-partner.png)
+
 > **WOULD YOU PUT YOUR REPUTATION IN FRONT OF THIS COMPANY?**
 
 Low rates are not due diligence. A representative's credibility becomes coupled to delivery behavior, while the provider becomes exposed to promises made in its name. Use evidence, interviews and a bounded working exercise; do not score documents alone. Security review can draw on [NIST CSF 2.0](https://www.nist.gov/cyberframework) and secure-development review on the [NIST SSDF](https://csrc.nist.gov/Projects/ssdf), adjusted to actual risk.

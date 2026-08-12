@@ -2,6 +2,8 @@
 
 # Chapter 25 — Accounts, Relationships, and Trust
 
+![Accounts, Relationships, and Trust](../../images/chapters/chapter-25-accounts-relationships-and-trust.png)
+
 **TRUST IS COMMERCIAL INFRASTRUCTURE.**
 
 Globant's FY2024 filing describes long-standing client relationships, names prominent customers and reports customer counts at revenue thresholds and concentration among its largest accounts ([FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude)). The EA relationship is described as older than a decade; public announcements call several sports relationships multiyear. [Chapter 21](../part-2-customers/21-from-project-to-strategic-account.md) explains why this is portfolio evidence of durability, not a private account ledger.

@@ -2,6 +2,8 @@
 
 # Chapter 21 — From Project to Strategic Account
 
+![From Project to Strategic Account](../../images/chapters/chapter-21-from-project-to-strategic-account.png)
+
 A project has a boundary. An account is a continuing commercial and delivery relationship that may contain many boundaries. Globant's filings make account durability economically visible without disclosing any customer's private ledger.
 
 For the year ended **December 31, 2024**, Globant reported customer counts at several annual-revenue thresholds and concentration for its largest and top-ten customers. The filing also describes long-standing relationships and identifies customers such as EA, Google, and Disney ([FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude)). Those dated portfolio measures show that large repeat accounts exist and that concentration is a risk. They do not identify how a particular account grew.

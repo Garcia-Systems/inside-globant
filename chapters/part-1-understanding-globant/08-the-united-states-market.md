@@ -2,6 +2,8 @@
 
 # Chapter 8 — The United States Market
 
+![The United States Market](../../images/chapters/chapter-8-the-united-states-market.png)
+
 North America is Globant's largest disclosed revenue region, and the company maintains US locations and publicly documented relationships with US-based organizations. Its annual report explains revenue by geography based on customer location and should be used for the period-specific proportion; the locations directory lists current public addresses ([FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude), [locations](https://www.globant.com/contact)). “North America” must not be silently relabeled “United States”: it includes more than one country.
 
 ## Why the market matters

@@ -2,6 +2,8 @@
 
 # Chapter 68 — The “Globant at 100 People” Model
 
+![The “Globant at 100 People” Model](../../images/chapters/chapter-68-the-globant-at-100-people-model.png)
+
 The title is deliberately provocative. The objective is **not** to recreate Globant. Imagine a 100-person international firm, mostly engineers, with three credible specialties and good delivery history but limited U.S. commercial infrastructure. What minimum system could compete credibly for suitable work?
 
 ```text

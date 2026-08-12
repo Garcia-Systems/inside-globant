@@ -2,6 +2,8 @@
 
 # Chapter 23 — The Commercial Engine
 
+![The Commercial Engine](../../images/chapters/chapter-23-the-commercial-engine.png)
+
 Globant may possess thousands of talented engineers, but engineering capacity has economic value only when customers purchase work. Talent is supply; a sufficiently defined, funded and trusted customer commitment is demand. The system that joins them is the **commercial engine**.
 
 Globant's FY2024 filing provides the outside boundaries: the company earns substantially all revenue from technology services, sells through client relationships, depends on retaining and expanding accounts, employs sales and marketing functions, and carries risks from demand, concentration, pricing, delivery and fixed-price commitments ([FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude)). It does not publish a universal funnel, stage vocabulary, approval chain or commission plan.

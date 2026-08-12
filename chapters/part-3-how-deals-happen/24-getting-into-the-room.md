@@ -2,6 +2,8 @@
 
 # Chapter 24 — Getting into the Room
 
+![Getting into the Room](../../images/chapters/chapter-24-getting-into-the-room.png)
+
 An enterprise meeting is permission to discuss a consequential problem, not merely a calendar invitation. The buyer may expose strategy, architecture, operational weakness or regulated data. Access therefore reflects relevance and trust.
 
 Public evidence shows several doors, but not their relative contribution. Globant has long-standing customers, public industry and Studio positions, offices in customer markets, acquisitions intended to add capabilities and market presence, customer/brand partnerships such as Formula 1 and FIFA, and technology ecosystems such as Google Cloud and AWS ([About](https://www.globant.com/about), [FIFA](https://www.fifa.com/about-fifa/commercial/media-releases/fifa-and-globant-announce-multi-year-partnership), [Google Cloud announcement](https://www.globant.com/news/globant-expands-partnership-google-cloud), [AWS partner profile](https://partners.amazonaws.com/partners/0010h00001h3VppAAE/Globant)). These establish routes to visibility and relationships—not the origin of any confidential lead.

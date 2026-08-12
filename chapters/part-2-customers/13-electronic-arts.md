@@ -2,6 +2,8 @@
 
 # Chapter 13 — Electronic Arts: The Lesson in a Long Relationship
 
+![Electronic Arts: The Lesson in a Long Relationship](../../images/chapters/chapter-13-electronic-arts-the-lesson-in-a-long-relationship.png)
+
 Electronic Arts (EA) makes and operates interactive entertainment. Games combine creative production with software engineering, proprietary tools, online services, releases across hardware platforms, live operations, and demand that can change around launches. That context makes specialized capacity potentially valuable—but it does not tell us what Globant did.
 
 Globant's FY2024 Form 20-F identifies EA as a customer and describes the relationship as extending for more than a decade; Globant customer material also presents EA work ([FY2024 Form 20-F](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude), [Globant customer directory](https://www.globant.com/customers)). These provider sources establish public, repeated relationship evidence. They do not provide a customer-validated contract history.

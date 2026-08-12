@@ -2,6 +2,8 @@
 
 # Chapter 66 — The First Deal
 
+![The First Deal](../../images/chapters/chapter-66-the-first-deal.png)
+
 > **HYPOTHETICAL COMPOSITE. No company, price, process, or outcome below is claimed as Globant fact or a prediction.**
 
 AndesWorks is a 75-person company outside the United States with credible Laravel, React, AWS and data-integration work but little U.S. access. Morgan is an independent U.S.-facing technical/commercial professional. HarborSupply, a U.S. distributor, takes four days to reconcile orders, shipments and invoices.

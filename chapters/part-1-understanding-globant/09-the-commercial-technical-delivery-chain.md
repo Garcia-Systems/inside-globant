@@ -2,6 +2,8 @@
 
 # Chapter 9 — The Commercial–Technical–Delivery Chain
 
+![The Commercial–Technical–Delivery Chain](../../images/chapters/chapter-9-the-commercial-technical-delivery-chain.png)
+
 Part I can now assemble the mechanism. The model below is a **conceptual services lifecycle**, not a claim that Globant mandates these labels, gates, or sequence on every engagement.
 
 ```mermaid

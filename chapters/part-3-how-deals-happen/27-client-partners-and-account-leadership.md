@@ -2,6 +2,8 @@
 
 # Chapter 27 — Client Partners and Account Leadership
 
+![Client Partners and Account Leadership](../../images/chapters/chapter-27-client-partners-and-account-leadership.png)
+
 Who represents Globant to the customer over the life of a relationship? Public Globant career material has used titles such as **Client Partner**, **Account Director**, **Account Manager** and geographically or sector-focused leadership titles ([Globant careers](https://career.globant.com/)). Because postings are time- and location-specific, this chapter treats them as role evidence, not a global organization chart.
 
 Reviewed Client Partner descriptions associated the title with senior customer relationships, account strategy, growth, commercial performance and coordination with delivery/capability teams. That supports a customer-owning function. It does not prove that every account has one Client Partner, that adjacent titles are equivalent, or that one person controls delivery.

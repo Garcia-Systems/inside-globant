@@ -2,6 +2,8 @@
 
 # Chapter 2 — What Globant Actually Sells
 
+![What Globant Actually Sells](../../images/chapters/chapter-2-what-globant-actually-sells.png)
+
 Globant does not sell a single packaged product. It sells organized intervention in a client's business and technology system. The tangible outputs may be research, a roadmap, a redesigned journey, software, a migrated platform, a model, integrations, or an operated service. The commercial object is access to a provider that can define and deliver some combination of those outputs.
 
 Globant's current website groups capabilities under areas including strategy and consulting, enterprise platforms, cloud, data and AI, digital experience, and engineering, expressed through its Studio network ([services](https://www.globant.com/services), [Studios](https://www.globant.com/studios)). Marketing categories overlap; the table translates them into buyer terms without asserting a standard contract form.

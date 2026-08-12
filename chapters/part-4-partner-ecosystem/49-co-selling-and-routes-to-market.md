@@ -2,6 +2,8 @@
 
 # Chapter 49 — Co-selling and Routes to Market
 
+![Co-selling and Routes to Market](../../images/chapters/chapter-49-co-selling-and-routes-to-market.png)
+
 Part III showed that partnerships can be one way into a buying conversation. This chapter separates the routes that are often collapsed into the word “partner.”
 
 ## Terms first

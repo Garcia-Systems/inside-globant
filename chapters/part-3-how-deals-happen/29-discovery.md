@@ -2,6 +2,8 @@
 
 # Chapter 29 — Discovery
 
+![Discovery](../../images/chapters/chapter-29-discovery.png)
+
 Discovery turns a request into a problem that can be decided and delivered. Globant markets strategy/consulting, design, product and engineering capabilities; its customer stories describe interventions whose visible artifact required prior understanding ([Services](https://www.globant.com/services), [customer stories](https://www.globant.com/customers)). Those sources support the existence of diagnostic work in the offer. They do **not** publish a universal proprietary discovery framework.
 
 ```text

@@ -2,6 +2,8 @@
 
 # Chapter 38 — When Sales Becomes Delivery
 
+![When Sales Becomes Delivery](../../images/chapters/chapter-38-when-sales-becomes-delivery.png)
+
 Signature changes the dominant work, but it should not create an information cliff. The engagement must carry its commercial and technical reasoning into an operating team.
 
 ## The handoff record

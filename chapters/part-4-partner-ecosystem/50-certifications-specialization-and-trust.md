@@ -2,6 +2,8 @@
 
 # Chapter 50 — Certifications, Specialization, and Trust
 
+![Certifications, Specialization, and Trust](../../images/chapters/chapter-50-certifications-specialization-and-trust.png)
+
 Enterprise buyers cannot directly observe all of a supplier's skill before awarding work. Credentials compress some evidence into signals that procurement and technical evaluators can inspect.
 
 ## What credentials can mean

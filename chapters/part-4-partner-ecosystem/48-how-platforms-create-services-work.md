@@ -2,6 +2,8 @@
 
 # Chapter 48 — How Platforms Create Services Work
 
+![How Platforms Create Services Work](../../images/chapters/chapter-48-how-platforms-create-services-work.png)
+
 A software product and a consulting service can be substitutes at one layer and complements at another. A managed database substitutes for building database machinery. It may simultaneously create work to redesign schemas, migrate data, integrate applications, secure access, and operate the new estate.
 
 ## The adoption chain

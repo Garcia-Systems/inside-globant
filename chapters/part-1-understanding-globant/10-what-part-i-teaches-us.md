@@ -2,6 +2,8 @@
 
 # Chapter 10 — What Part I Teaches Us
 
+![What Part I Teaches Us](../../images/chapters/chapter-10-what-part-i-teaches-us.png)
+
 Globant is a global technology-services company: an organization that converts expertise, labor, methods, relationships, partner ecosystems, and management into client engagements. Software is often an output. The business is not adequately explained as a software product vendor or a broker of cheaper programmers.
 
 ## The answer in one page

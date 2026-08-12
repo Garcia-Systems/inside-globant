@@ -2,6 +2,8 @@
 
 # Chapter 41 — The Ecosystem Around Globant
 
+![The Ecosystem Around Globant](../../images/chapters/chapter-41-the-ecosystem-around-globant.png)
+
 Parts I–III followed Globant from capabilities to customers and then through the commercial–technical–delivery chain. That chain is incomplete unless it includes the technology on which much delivery depends. Globant creates software and some products of its own, but it does not manufacture AWS regions, Microsoft Azure, Google Cloud, Salesforce, or NVIDIA processors.
 
 ## Product company and services company are different businesses

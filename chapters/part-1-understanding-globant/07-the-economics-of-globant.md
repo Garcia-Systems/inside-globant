@@ -2,6 +2,8 @@
 
 # Chapter 7 — The Economics of Globant
 
+![The Economics of Globant](../../images/chapters/chapter-7-the-economics-of-globant.png)
+
 Globant is economically a people-intensive services company with some platforms and reusable assets—not a pure software subscription company. The FY2024 audited baseline makes the mechanism visible. Globant reported **$2.421 billion of revenue for the year ended December 31, 2024**, up **15.3%** from 2023; gross profit was approximately **$874 million**, or **36.1%** of revenue. It reported **31,107 Globers at year-end**, of whom **29,093** were technology, design, and innovation professionals. These figures and definitions should be read in the filing rather than combined with differently dated website counters ([FY2024 Form 20-F, selected financial and employee data](https://www.sec.gov/edgar/browse/?CIK=1557860&owner=exclude)).
 
 The filing also reports that North America was the largest revenue region and discloses industry mix, top-customer concentration, customers above revenue thresholds, and headcount. Those tables are period-specific. The exact figures are more useful in their original context than detached from currency, acquisition, and classification notes.

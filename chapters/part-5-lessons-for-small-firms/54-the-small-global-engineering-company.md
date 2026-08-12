@@ -2,6 +2,8 @@
 
 # Chapter 54 — The Small Global Engineering Company
 
+![The Small Global Engineering Company](../../images/chapters/chapter-54-the-small-global-engineering-company.png)
+
 There is no single “offshore company.” The [World Trade Organization's work on digitally delivered services](https://www.wto.org/english/res_e/booksp_e/dtd2023_e.pdf) treats cross-border digital delivery as a large and growing mode of trade, while the [World Bank's Digital Progress and Trends Report](https://www.worldbank.org/en/publication/digital-progress-and-trends-report) emphasizes uneven participation and skills. These sources justify a global category, not a stereotype about any country or team.
 
 ## Overlapping business forms

@@ -2,6 +2,8 @@
 
 # Chapter 59 — The Discovery Gap
 
+![The Discovery Gap](../../images/chapters/chapter-59-the-discovery-gap.png)
+
 A specification describes requested behavior. Discovery investigates whether that behavior addresses a valuable problem under real constraints.
 
 ```text

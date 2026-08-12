@@ -2,6 +2,8 @@
 
 # Chapter 36 — Partnerships as a Route to Market
 
+![Partnerships as a Route to Market](../../images/chapters/chapter-36-partnerships-as-a-route-to-market.png)
+
 Globant publicly documents relationships with technology-platform companies, but “partner” can mean certification, delivery capability, joint offering, marketing or other arrangements. It does not prove co-selling or generated revenue in every case.
 
 The strongest sources reviewed here establish an expanded Google Cloud collaboration and an AWS partner profile ([Globant–Google Cloud](https://www.globant.com/news/globant-expands-partnership-google-cloud), [AWS profile](https://partners.amazonaws.com/partners/0010h00001h3VppAAE/Globant)). Globant's services and acquisition announcements also document enterprise-platform capability, including Salesforce through CloudShift ([CloudShift](https://www.globant.com/news/globant-acquires-cloudshift)). Part IV will verify current status and investigate additional ecosystems rather than infer a current list from logos.

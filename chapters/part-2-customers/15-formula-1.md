@@ -2,6 +2,8 @@
 
 # Chapter 15 — Formula 1: A Digital Product Mandate Around a Global Sport
 
+![Formula 1: A Digital Product Mandate Around a Global Sport](../../images/chapters/chapter-15-formula-1-a-digital-product-mandate-around-a-global-sport.png)
+
 Formula 1 is simultaneously a competition, media property, event business, licensing platform, and global fan brand. Its digital surfaces must serve existing followers, explain a complex sport to new audiences, carry content across a season, and withstand attention peaks. In September 2024 Formula 1 named Globant an Official Partner in a multiyear relationship focused on digital experiences ([Formula 1 announcement](https://www.formula1.com/en/latest/article/formula-1-announces-globant-as-an-official-partner-to-drive-digital.4pUzE5QpdthT1DRdqS1Dlw), [Globant announcement](https://www.globant.com/news/formula-1-and-globant-announce-multi-year-partnership)).
 
 ## What Formula 1 said it was buying
